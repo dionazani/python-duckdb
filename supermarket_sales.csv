@@ -1,0 +1,1001 @@
+invoice_id;branch;city;customer_type;gender;product_line;unit_price;quantity;invoice_date;invoice_time;payment
+750-67-8428;A;Yangon;Member;Female;Health and beauty;7469;7;2024-05-06;13:08:00;Ewallet
+226-31-3081;C;Naypyitaw;Normal;Female;Electronic accessories;1528;5;2024-05-06;10:29:00;Cash
+631-41-3108;A;Yangon;Normal;Male;Home and lifestyle;4633;7;2024-05-06;13:23:00;Credit card
+123-19-1176;A;Yangon;Member;Male;Health and beauty;5822;8;2024-05-06;20:33:00;Ewallet
+373-73-7910;A;Yangon;Normal;Male;Sports and travel;8631;7;2024-05-06;10:37:00;Ewallet
+699-14-3026;C;Naypyitaw;Normal;Male;Electronic accessories;8539;7;2024-05-06;18:30:00;Ewallet
+355-53-5943;A;Yangon;Member;Female;Electronic accessories;6884;6;2024-05-06;14:36:00;Ewallet
+315-22-5665;C;Naypyitaw;Normal;Female;Home and lifestyle;7356;10;2024-05-06;11:38:00;Ewallet
+665-32-9167;A;Yangon;Member;Female;Health and beauty;3626;2;2024-05-06;17:15:00;Credit card
+692-92-5582;B;Mandalay;Member;Female;Food and beverages;5484;3;2024-05-06;13:27:00;Credit card
+351-62-0822;B;Mandalay;Member;Female;Fashion accessories;1448;4;2024-05-06;18:07:00;Ewallet
+529-56-3974;B;Mandalay;Member;Male;Electronic accessories;2551;4;2024-05-06;17:03:00;Cash
+365-64-0515;A;Yangon;Normal;Female;Electronic accessories;4695;5;2024-05-06;10:25:00;Ewallet
+252-56-2699;A;Yangon;Normal;Male;Food and beverages;4319;10;2024-05-06;16:48:00;Ewallet
+829-34-3910;A;Yangon;Normal;Female;Health and beauty;7138;10;2024-05-06;19:21:00;Cash
+299-46-1805;B;Mandalay;Member;Female;Sports and travel;9372;6;2024-05-06;16:19:00;Cash
+656-95-9349;A;Yangon;Member;Female;Health and beauty;6893;7;2024-05-06;11:03:00;Credit card
+765-26-6951;A;Yangon;Normal;Male;Sports and travel;7261;6;2024-05-06;10:39:00;Credit card
+329-62-1586;A;Yangon;Normal;Male;Food and beverages;5467;3;2024-05-06;18:00:00;Credit card
+319-50-3348;B;Mandalay;Normal;Female;Home and lifestyle;403;2;2024-05-06;15:30:00;Ewallet
+300-71-4605;C;Naypyitaw;Member;Male;Electronic accessories;8604;5;2024-05-06;11:24:00;Ewallet
+371-85-5789;B;Mandalay;Normal;Male;Health and beauty;8798;3;2024-05-06;10:40:00;Ewallet
+273-16-6619;B;Mandalay;Normal;Male;Home and lifestyle;332;2;2024-05-06;12:20:00;Credit card
+636-48-8204;A;Yangon;Normal;Male;Electronic accessories;3456;5;2024-05-06;11:15:00;Ewallet
+549-59-1358;A;Yangon;Member;Male;Sports and travel;8863;3;2024-05-06;17:36:00;Ewallet
+227-03-5010;A;Yangon;Member;Female;Home and lifestyle;5259;8;2024-05-06;19:20:00;Credit card
+649-29-6775;B;Mandalay;Normal;Male;Fashion accessories;3352;1;2024-05-06;15:31:00;Cash
+189-17-4241;A;Yangon;Normal;Female;Fashion accessories;8767;2;2024-05-06;12:17:00;Credit card
+145-94-9061;B;Mandalay;Normal;Female;Food and beverages;8836;5;2024-05-06;19:48:00;Cash
+848-62-7243;A;Yangon;Normal;Male;Health and beauty;2489;9;2024-05-06;15:36:00;Cash
+871-79-8483;B;Mandalay;Normal;Male;Fashion accessories;9413;5;2024-05-06;19:39:00;Credit card
+149-71-6266;B;Mandalay;Member;Male;Sports and travel;7807;9;2024-05-06;12:43:00;Cash
+640-49-2076;B;Mandalay;Normal;Male;Sports and travel;8378;8;2024-05-06;14:49:00;Cash
+595-11-5460;A;Yangon;Normal;Male;Health and beauty;9658;2;2024-05-06;10:12:00;Credit card
+183-56-6882;C;Naypyitaw;Member;Female;Food and beverages;9942;4;2024-05-06;10:42:00;Ewallet
+232-16-2483;C;Naypyitaw;Member;Female;Sports and travel;6812;1;2024-05-06;12:28:00;Ewallet
+129-29-8530;A;Yangon;Member;Male;Sports and travel;6262;5;2024-05-06;19:15:00;Ewallet
+272-65-1806;A;Yangon;Normal;Female;Electronic accessories;6088;9;2024-05-06;17:17:00;Ewallet
+333-73-7901;C;Naypyitaw;Normal;Female;Health and beauty;5492;8;2024-05-06;13:24:00;Ewallet
+777-82-7220;B;Mandalay;Member;Male;Home and lifestyle;3012;8;2024-05-06;13:01:00;Cash
+280-35-5823;B;Mandalay;Member;Female;Home and lifestyle;8672;1;2024-05-06;18:45:00;Ewallet
+554-53-8700;C;Naypyitaw;Member;Male;Home and lifestyle;5611;2;2024-05-06;10:11:00;Cash
+354-25-5821;B;Mandalay;Member;Female;Sports and travel;6912;6;2024-05-06;13:03:00;Cash
+228-96-1411;C;Naypyitaw;Member;Female;Food and beverages;987;8;2024-05-06;20:39:00;Cash
+617-15-4209;C;Naypyitaw;Member;Male;Health and beauty;1537;2;2024-05-06;19:47:00;Cash
+132-32-9879;B;Mandalay;Member;Female;Electronic accessories;9396;4;2024-05-06;18:00:00;Cash
+370-41-7321;B;Mandalay;Member;Male;Health and beauty;5669;9;2024-05-06;17:24:00;Credit card
+727-46-3608;B;Mandalay;Member;Female;Food and beverages;2001;9;2024-05-06;15:47:00;Ewallet
+669-54-1719;B;Mandalay;Member;Male;Electronic accessories;1893;6;2024-05-06;12:45:00;Credit card
+574-22-5561;C;Naypyitaw;Member;Female;Fashion accessories;8263;10;2024-05-06;17:08:00;Ewallet
+326-78-5178;C;Naypyitaw;Member;Male;Food and beverages;914;7;2024-05-06;10:19:00;Cash
+162-48-8011;A;Yangon;Member;Female;Food and beverages;4459;5;2024-05-06;15:10:00;Cash
+616-24-2851;B;Mandalay;Member;Female;Fashion accessories;1787;4;2024-05-06;14:42:00;Ewallet
+778-71-5554;C;Naypyitaw;Member;Male;Fashion accessories;1543;1;2024-05-06;15:46:00;Credit card
+242-55-6721;B;Mandalay;Normal;Male;Home and lifestyle;1616;2;2024-05-06;11:49:00;Ewallet
+399-46-5918;C;Naypyitaw;Normal;Female;Electronic accessories;8598;8;2024-05-06;19:01:00;Cash
+106-35-6779;A;Yangon;Member;Male;Home and lifestyle;4434;2;2024-05-06;11:26:00;Cash
+635-40-6220;A;Yangon;Normal;Male;Health and beauty;896;8;2024-05-06;11:28:00;Ewallet
+817-48-8732;A;Yangon;Member;Female;Home and lifestyle;7235;10;2024-05-06;15:55:00;Cash
+120-06-4233;C;Naypyitaw;Normal;Male;Electronic accessories;3061;6;2024-05-06;20:36:00;Cash
+285-68-5083;C;Naypyitaw;Member;Female;Sports and travel;2474;3;2024-05-06;17:47:00;Credit card
+803-83-5989;C;Naypyitaw;Normal;Male;Home and lifestyle;5573;6;2024-05-06;10:55:00;Ewallet
+347-34-2234;B;Mandalay;Member;Female;Sports and travel;5507;9;2024-05-06;13:40:00;Ewallet
+199-75-8169;A;Yangon;Member;Male;Sports and travel;1581;10;2024-05-06;12:27:00;Credit card
+853-23-2453;B;Mandalay;Member;Male;Health and beauty;7574;4;2024-05-06;14:35:00;Cash
+877-22-3308;A;Yangon;Member;Male;Health and beauty;1587;10;2024-05-06;16:40:00;Cash
+838-78-4295;C;Naypyitaw;Normal;Female;Health and beauty;3347;2;2024-05-06;15:43:00;Ewallet
+109-28-2512;B;Mandalay;Member;Female;Fashion accessories;9761;6;2024-05-06;15:01:00;Ewallet
+232-11-3025;A;Yangon;Normal;Male;Sports and travel;7877;10;2024-05-06;10:04:00;Cash
+382-03-4532;A;Yangon;Member;Female;Health and beauty;1833;1;2024-05-06;18:50:00;Cash
+393-65-2792;C;Naypyitaw;Normal;Male;Food and beverages;8948;10;2024-05-06;12:46:00;Credit card
+796-12-2025;C;Naypyitaw;Normal;Male;Fashion accessories;6212;10;2024-05-06;16:19:00;Cash
+510-95-6347;B;Mandalay;Member;Female;Food and beverages;4852;3;2024-05-06;18:17:00;Ewallet
+841-35-6630;C;Naypyitaw;Normal;Female;Electronic accessories;7591;6;2024-05-06;18:21:00;Cash
+287-21-9091;A;Yangon;Normal;Male;Home and lifestyle;7467;9;2024-05-06;10:55:00;Ewallet
+732-94-0499;C;Naypyitaw;Normal;Female;Electronic accessories;4165;10;2024-05-06;17:04:00;Credit card
+263-10-3913;C;Naypyitaw;Member;Male;Fashion accessories;4904;9;2024-05-06;14:20:00;Credit card
+381-20-0914;A;Yangon;Member;Female;Fashion accessories;2001;9;2024-05-06;15:48:00;Credit card
+829-49-1914;C;Naypyitaw;Member;Female;Food and beverages;7831;10;2024-05-06;16:24:00;Ewallet
+756-01-7507;C;Naypyitaw;Normal;Female;Health and beauty;2038;5;2024-05-06;18:56:00;Cash
+870-72-4431;C;Naypyitaw;Normal;Female;Health and beauty;9919;6;2024-05-06;14:42:00;Credit card
+847-38-7188;B;Mandalay;Normal;Female;Food and beverages;9668;3;2024-05-06;19:56:00;Ewallet
+480-63-2856;C;Naypyitaw;Normal;Male;Food and beverages;1925;8;2024-05-06;18:37:00;Ewallet
+787-56-0757;C;Naypyitaw;Member;Female;Food and beverages;8036;4;2024-05-06;18:45:00;Credit card
+360-39-5055;C;Naypyitaw;Member;Male;Sports and travel;4891;5;2024-05-06;10:17:00;Cash
+730-50-9884;C;Naypyitaw;Normal;Female;Sports and travel;8306;7;2024-05-06;14:31:00;Ewallet
+362-58-8315;C;Naypyitaw;Normal;Male;Fashion accessories;7652;5;2024-05-06;10:23:00;Cash
+633-44-8566;A;Yangon;Member;Male;Food and beverages;4938;7;2024-05-06;20:35:00;Credit card
+504-35-8843;A;Yangon;Normal;Male;Sports and travel;4247;1;2024-05-06;16:57:00;Cash
+318-68-5053;B;Mandalay;Normal;Female;Health and beauty;7699;6;2024-05-06;17:55:00;Cash
+565-80-5980;C;Naypyitaw;Member;Female;Home and lifestyle;4738;4;2024-05-06;10:25:00;Cash
+225-32-0908;C;Naypyitaw;Normal;Female;Sports and travel;4486;10;2024-05-06;19:54:00;Ewallet
+873-51-0671;A;Yangon;Member;Female;Sports and travel;2198;7;2024-05-06;16:42:00;Ewallet
+152-08-9985;B;Mandalay;Member;Male;Health and beauty;6436;9;2024-05-06;12:09:00;Credit card
+512-91-0811;C;Naypyitaw;Normal;Male;Health and beauty;8975;1;2024-05-06;20:05:00;Credit card
+594-34-4444;A;Yangon;Normal;Male;Electronic accessories;9716;1;2024-05-06;20:38:00;Ewallet
+766-85-7061;B;Mandalay;Normal;Male;Health and beauty;8787;10;2024-05-06;10:25:00;Ewallet
+871-39-9221;C;Naypyitaw;Normal;Female;Electronic accessories;1245;6;2024-05-06;13:11:00;Cash
+865-92-6136;A;Yangon;Normal;Male;Food and beverages;5275;3;2024-05-06;10:16:00;Ewallet
+733-01-9107;B;Mandalay;Normal;Male;Home and lifestyle;827;6;2024-05-06;18:14:00;Cash
+163-56-7055;C;Naypyitaw;Member;Male;Fashion accessories;4871;1;2024-05-06;19:20:00;Cash
+189-98-2939;C;Naypyitaw;Normal;Male;Fashion accessories;7855;9;2024-05-06;13:22:00;Cash
+551-21-3069;C;Naypyitaw;Normal;Female;Electronic accessories;2307;9;2024-05-06;11:27:00;Cash
+212-62-1842;A;Yangon;Normal;Male;Food and beverages;5826;6;2024-05-06;16:44:00;Cash
+716-39-1409;B;Mandalay;Normal;Male;Health and beauty;3035;7;2024-05-06;18:19:00;Cash
+704-48-3927;A;Yangon;Member;Male;Electronic accessories;8867;10;2024-05-06;14:50:00;Ewallet
+628-34-3388;C;Naypyitaw;Normal;Male;Fashion accessories;2738;6;2024-05-06;20:54:00;Credit card
+630-74-5166;A;Yangon;Normal;Male;Sports and travel;6213;6;2024-05-06;20:19:00;Cash
+588-01-7461;C;Naypyitaw;Normal;Female;Food and beverages;3398;9;2024-05-06;10:43:00;Cash
+861-77-0145;C;Naypyitaw;Member;Male;Electronic accessories;8197;10;2024-05-06;14:30:00;Cash
+479-26-8945;B;Mandalay;Member;Female;Sports and travel;1649;2;2024-05-06;11:32:00;Ewallet
+210-67-5886;C;Naypyitaw;Member;Female;Health and beauty;9821;3;2024-05-06;10:41:00;Credit card
+227-78-1148;B;Mandalay;Normal;Female;Fashion accessories;7284;7;2024-05-06;12:44:00;Cash
+645-44-1170;A;Yangon;Member;Male;Home and lifestyle;5807;9;2024-05-06;20:07:00;Ewallet
+237-01-6122;C;Naypyitaw;Member;Female;Home and lifestyle;8079;9;2024-05-06;20:31:00;Credit card
+225-98-1496;C;Naypyitaw;Normal;Female;Fashion accessories;2702;3;2024-05-06;13:01:00;Credit card
+291-32-1427;B;Mandalay;Member;Male;Fashion accessories;2194;5;2024-05-06;12:29:00;Ewallet
+659-65-8956;B;Mandalay;Member;Male;Fashion accessories;5136;1;2024-05-06;15:26:00;Ewallet
+642-32-2990;A;Yangon;Normal;Female;Food and beverages;1096;10;2024-05-06;20:48:00;Ewallet
+378-24-2715;B;Mandalay;Normal;Male;Home and lifestyle;5344;2;2024-05-06;20:38:00;Ewallet
+638-60-7125;A;Yangon;Normal;Female;Electronic accessories;9956;8;2024-05-06;17:03:00;Credit card
+659-36-1684;C;Naypyitaw;Member;Male;Sports and travel;5712;7;2024-05-06;12:02:00;Credit card
+219-22-9386;B;Mandalay;Member;Male;Sports and travel;9996;9;2024-05-06;17:26:00;Credit card
+336-78-2147;C;Naypyitaw;Member;Male;Home and lifestyle;6391;8;2024-05-06;19:52:00;Credit card
+268-27-6179;B;Mandalay;Member;Female;Fashion accessories;5647;8;2024-05-06;14:57:00;Ewallet
+668-90-8900;A;Yangon;Normal;Female;Home and lifestyle;9369;7;2024-05-06;18:44:00;Credit card
+870-54-3162;A;Yangon;Normal;Female;Sports and travel;3225;5;2024-05-06;13:26:00;Cash
+189-08-9157;C;Naypyitaw;Normal;Female;Fashion accessories;3173;9;2024-05-06;16:17:00;Credit card
+663-86-9076;C;Naypyitaw;Member;Female;Food and beverages;6854;8;2024-05-06;15:57:00;Ewallet
+549-84-7482;B;Mandalay;Normal;Female;Sports and travel;9028;9;2024-05-06;11:15:00;Ewallet
+191-10-6171;B;Mandalay;Normal;Female;Fashion accessories;3962;7;2024-05-06;13:18:00;Cash
+802-70-5316;A;Yangon;Member;Female;Sports and travel;9213;6;2024-05-06;20:34:00;Cash
+695-51-0018;B;Mandalay;Normal;Female;Sports and travel;3484;4;2024-05-06;18:36:00;Cash
+590-83-4591;B;Mandalay;Member;Male;Electronic accessories;8745;6;2024-05-06;14:40:00;Credit card
+483-71-1164;C;Naypyitaw;Normal;Female;Health and beauty;813;6;2024-05-06;16:43:00;Ewallet
+597-78-7908;C;Naypyitaw;Normal;Male;Fashion accessories;9022;3;2024-05-06;19:39:00;Cash
+700-81-1757;A;Yangon;Normal;Female;Electronic accessories;2631;5;2024-05-06;20:59:00;Credit card
+354-39-5160;A;Yangon;Member;Female;Home and lifestyle;3442;6;2024-05-06;15:39:00;Cash
+241-72-9525;B;Mandalay;Normal;Male;Sports and travel;5191;10;2024-05-06;12:21:00;Cash
+575-30-8091;A;Yangon;Normal;Male;Sports and travel;725;8;2024-05-06;19:25:00;Ewallet
+731-81-9469;C;Naypyitaw;Member;Female;Sports and travel;898;10;2024-05-06;13:00:00;Credit card
+280-17-4359;C;Naypyitaw;Member;Male;Health and beauty;905;10;2024-05-06;13:48:00;Cash
+338-65-2210;C;Naypyitaw;Member;Female;Health and beauty;686;10;2024-05-06;19:57:00;Cash
+488-25-4221;C;Naypyitaw;Member;Female;Food and beverages;3041;1;2024-05-06;10:36:00;Credit card
+239-10-7476;A;Yangon;Normal;Female;Home and lifestyle;7795;6;2024-05-06;16:37:00;Ewallet
+458-41-1477;C;Naypyitaw;Normal;Female;Health and beauty;4626;6;2024-05-06;17:11:00;Credit card
+685-64-1609;A;Yangon;Member;Female;Fashion accessories;3014;10;2024-05-06;12:28:00;Ewallet
+568-90-5112;C;Naypyitaw;Normal;Male;Health and beauty;6614;4;2024-05-06;12:46:00;Credit card
+262-47-2794;B;Mandalay;Member;Male;Home and lifestyle;7186;8;2024-05-06;15:07:00;Credit card
+238-49-0436;A;Yangon;Normal;Male;Health and beauty;3246;8;2024-05-06;13:48:00;Credit card
+608-96-3517;B;Mandalay;Member;Female;Fashion accessories;9154;4;2024-05-06;19:20:00;Credit card
+584-86-7256;C;Naypyitaw;Member;Male;Sports and travel;3456;7;2024-05-06;16:07:00;Credit card
+746-94-0204;A;Yangon;Normal;Male;Fashion accessories;8324;9;2024-05-06;11:56:00;Credit card
+214-17-6927;C;Naypyitaw;Normal;Female;Food and beverages;1648;6;2024-05-06;18:23:00;Ewallet
+400-89-4171;C;Naypyitaw;Normal;Female;Sports and travel;8097;8;2024-05-06;13:05:00;Cash
+782-95-9291;A;Yangon;Member;Male;Food and beverages;9229;5;2024-05-06;15:55:00;Credit card
+279-74-2924;B;Mandalay;Member;Male;Electronic accessories;7217;1;2024-05-06;19:40:00;Cash
+307-85-2293;B;Mandalay;Normal;Male;Home and lifestyle;5028;5;2024-05-06;13:58:00;Ewallet
+743-04-1105;B;Mandalay;Member;Male;Health and beauty;9722;9;2024-05-06;14:43:00;Ewallet
+423-57-2993;B;Mandalay;Normal;Male;Sports and travel;9339;6;2024-05-06;19:18:00;Ewallet
+894-41-5205;C;Naypyitaw;Normal;Female;Food and beverages;4318;8;2024-05-06;19:39:00;Credit card
+275-28-0149;A;Yangon;Normal;Male;Sports and travel;6369;1;2024-05-06;16:21:00;Cash
+101-17-6199;A;Yangon;Normal;Male;Food and beverages;4579;7;2024-05-06;19:44:00;Credit card
+423-80-0988;C;Naypyitaw;Normal;Male;Sports and travel;764;2;2024-05-06;19:42:00;Ewallet
+548-46-9322;B;Mandalay;Normal;Male;Food and beverages;399;10;2024-05-06;15:24:00;Credit card
+505-02-0892;B;Mandalay;Member;Male;Health and beauty;4257;8;2024-05-06;14:12:00;Ewallet
+234-65-2137;C;Naypyitaw;Normal;Male;Home and lifestyle;9558;10;2024-05-06;13:32:00;Cash
+687-47-8271;A;Yangon;Normal;Male;Fashion accessories;9898;10;2024-05-06;16:20:00;Credit card
+796-32-9050;A;Yangon;Normal;Male;Food and beverages;5128;6;2024-05-06;16:31:00;Cash
+105-31-1824;A;Yangon;Member;Male;Sports and travel;6952;7;2024-05-06;15:10:00;Credit card
+249-42-3782;A;Yangon;Normal;Male;Health and beauty;7001;5;2024-05-06;11:36:00;Ewallet
+316-55-4634;B;Mandalay;Member;Male;Food and beverages;8005;5;2024-05-06;12:45:00;Credit card
+733-33-4967;C;Naypyitaw;Normal;Male;Electronic accessories;2085;8;2024-05-06;19:17:00;Cash
+608-27-6295;B;Mandalay;Member;Male;Electronic accessories;5289;6;2024-05-06;17:34:00;Credit card
+414-12-7047;B;Mandalay;Normal;Male;Food and beverages;1979;8;2024-05-06;12:04:00;Ewallet
+827-26-2100;A;Yangon;Member;Male;Home and lifestyle;3384;9;2024-05-06;16:21:00;Ewallet
+175-54-2529;A;Yangon;Member;Male;Food and beverages;2217;8;2024-05-06;17:01:00;Credit card
+139-52-2867;C;Naypyitaw;Normal;Female;Fashion accessories;2251;7;2024-05-06;10:50:00;Credit card
+407-63-8975;A;Yangon;Normal;Male;Food and beverages;7388;6;2024-05-06;19:16:00;Ewallet
+342-65-4817;C;Naypyitaw;Member;Male;Health and beauty;868;3;2024-05-06;16:47:00;Ewallet
+130-98-8941;C;Naypyitaw;Normal;Male;Fashion accessories;6426;7;2024-05-06;10:00:00;Cash
+434-83-9547;C;Naypyitaw;Member;Male;Food and beverages;3847;8;2024-05-06;11:51:00;Cash
+851-28-6367;A;Yangon;Member;Male;Sports and travel;155;10;2024-05-06;10:55:00;Ewallet
+824-88-3614;C;Naypyitaw;Normal;Male;Health and beauty;3431;8;2024-05-06;15:00:00;Ewallet
+586-25-0848;A;Yangon;Normal;Female;Sports and travel;1234;7;2024-05-06;11:19:00;Credit card
+895-66-0685;B;Mandalay;Member;Male;Food and beverages;1808;3;2024-05-06;19:46:00;Ewallet
+305-14-0245;B;Mandalay;Member;Female;Home and lifestyle;9449;8;2024-05-06;19:00:00;Ewallet
+732-04-5373;B;Mandalay;Member;Male;Home and lifestyle;4647;4;2024-05-06;10:53:00;Cash
+400-60-7251;A;Yangon;Normal;Male;Home and lifestyle;7407;1;2024-05-06;12:50:00;Ewallet
+593-65-1552;C;Naypyitaw;Normal;Female;Home and lifestyle;6981;4;2024-05-06;20:50:00;Credit card
+284-34-9626;B;Mandalay;Normal;Female;Home and lifestyle;7704;3;2024-05-06;10:39:00;Credit card
+437-58-8131;B;Mandalay;Normal;Female;Fashion accessories;7352;2;2024-05-06;13:41:00;Ewallet
+286-43-6208;C;Naypyitaw;Normal;Female;Food and beverages;878;9;2024-05-06;19:08:00;Cash
+641-43-2399;B;Mandalay;Normal;Male;Home and lifestyle;2555;4;2024-05-06;20:23:00;Ewallet
+831-07-6050;A;Yangon;Normal;Male;Electronic accessories;3271;5;2024-05-06;11:30:00;Credit card
+556-86-3144;C;Naypyitaw;Member;Female;Fashion accessories;7429;1;2024-05-06;19:30:00;Cash
+848-24-9445;C;Naypyitaw;Member;Male;Health and beauty;437;2;2024-05-06;18:03:00;Cash
+856-22-8149;A;Yangon;Normal;Female;Home and lifestyle;2529;1;2024-05-06;10:13:00;Ewallet
+699-01-4164;C;Naypyitaw;Normal;Male;Health and beauty;415;4;2024-05-06;19:58:00;Credit card
+420-11-4919;C;Naypyitaw;Member;Female;Food and beverages;7139;5;2024-05-06;19:57:00;Credit card
+606-80-4905;C;Naypyitaw;Member;Female;Sports and travel;1915;6;2024-05-06;10:01:00;Credit card
+542-41-0513;B;Mandalay;Member;Female;Electronic accessories;5749;4;2024-05-06;11:57:00;Cash
+426-39-2418;C;Naypyitaw;Normal;Male;Electronic accessories;6141;7;2024-05-06;10:02:00;Cash
+875-46-5808;B;Mandalay;Member;Male;Health and beauty;259;10;2024-05-06;14:51:00;Ewallet
+394-43-4238;B;Mandalay;Member;Male;Home and lifestyle;1777;5;2024-05-06;12:42:00;Credit card
+749-24-1565;A;Yangon;Normal;Female;Health and beauty;2303;9;2024-05-06;12:02:00;Ewallet
+672-51-8681;C;Naypyitaw;Member;Female;Electronic accessories;6665;9;2024-05-06;18:19:00;Credit card
+263-87-5680;C;Naypyitaw;Member;Female;Home and lifestyle;2853;10;2024-05-06;17:38:00;Ewallet
+573-58-9734;B;Mandalay;Normal;Female;Fashion accessories;3037;3;2024-05-06;13:41:00;Ewallet
+817-69-8206;B;Mandalay;Normal;Female;Electronic accessories;9973;9;2024-05-06;19:42:00;Credit card
+888-02-0338;A;Yangon;Normal;Male;Electronic accessories;2623;9;2024-05-06;20:24:00;Ewallet
+677-11-0152;C;Naypyitaw;Normal;Female;Food and beverages;9326;9;2024-05-06;18:08:00;Cash
+142-63-6033;B;Mandalay;Normal;Male;Home and lifestyle;9236;5;2024-05-06;19:17:00;Ewallet
+656-16-1063;B;Mandalay;Normal;Male;Sports and travel;4642;3;2024-05-06;13:24:00;Credit card
+891-58-8335;B;Mandalay;Member;Female;Sports and travel;2961;7;2024-05-06;15:53:00;Cash
+802-43-8934;A;Yangon;Normal;Male;Home and lifestyle;1828;1;2024-05-06;15:05:00;Credit card
+560-30-5617;B;Mandalay;Normal;Female;Sports and travel;2477;5;2024-05-06;18:27:00;Cash
+319-74-2561;A;Yangon;Member;Female;Electronic accessories;9464;3;2024-05-06;16:55:00;Cash
+549-03-9315;B;Mandalay;Normal;Male;Fashion accessories;9487;8;2024-05-06;12:58:00;Ewallet
+790-29-1172;B;Mandalay;Normal;Female;Food and beverages;5734;3;2024-05-06;18:59:00;Credit card
+239-36-3640;B;Mandalay;Normal;Male;Electronic accessories;4535;6;2024-05-06;13:44:00;Ewallet
+468-01-2051;B;Mandalay;Normal;Male;Food and beverages;6208;7;2024-05-06;13:46:00;Ewallet
+389-25-3394;C;Naypyitaw;Normal;Male;Electronic accessories;1181;5;2024-05-06;18:06:00;Cash
+279-62-1445;C;Naypyitaw;Member;Female;Fashion accessories;1254;1;2024-05-06;12:38:00;Cash
+213-72-6612;A;Yangon;Normal;Male;Food and beverages;4325;2;2024-05-06;15:56:00;Cash
+746-68-6593;C;Naypyitaw;Member;Female;Sports and travel;8716;2;2024-05-06;14:29:00;Credit card
+836-82-5858;B;Mandalay;Member;Male;Health and beauty;6937;9;2024-05-06;19:14:00;Ewallet
+583-72-1480;C;Naypyitaw;Member;Male;Electronic accessories;3706;4;2024-05-06;16:24:00;Ewallet
+466-61-5506;B;Mandalay;Member;Female;Electronic accessories;907;6;2024-05-06;10:52:00;Cash
+721-86-6247;A;Yangon;Normal;Female;Home and lifestyle;6342;8;2024-05-06;12:55:00;Ewallet
+289-65-5721;B;Mandalay;Normal;Female;Fashion accessories;8137;2;2024-05-06;19:28:00;Cash
+545-46-3100;B;Mandalay;Member;Female;Electronic accessories;1059;3;2024-05-06;13:52:00;Credit card
+418-02-5978;B;Mandalay;Normal;Female;Health and beauty;8409;9;2024-05-06;10:54:00;Cash
+269-04-5750;B;Mandalay;Member;Male;Fashion accessories;7382;4;2024-05-06;18:31:00;Cash
+157-13-5295;A;Yangon;Member;Male;Health and beauty;5194;10;2024-05-06;18:24:00;Ewallet
+645-78-8093;A;Yangon;Normal;Female;Sports and travel;9314;2;2024-05-06;18:09:00;Ewallet
+211-30-9270;C;Naypyitaw;Normal;Male;Health and beauty;1741;5;2024-05-06;15:16:00;Credit card
+755-12-3214;C;Naypyitaw;Member;Female;Fashion accessories;4422;5;2024-05-06;17:07:00;Credit card
+346-84-3103;B;Mandalay;Member;Female;Electronic accessories;1322;5;2024-05-06;19:26:00;Cash
+478-06-7835;A;Yangon;Normal;Male;Fashion accessories;8969;1;2024-05-06;11:20:00;Ewallet
+540-11-4336;A;Yangon;Normal;Male;Food and beverages;2494;9;2024-05-06;16:49:00;Credit card
+448-81-5016;A;Yangon;Normal;Male;Health and beauty;5977;2;2024-05-06;12:01:00;Credit card
+142-72-4741;C;Naypyitaw;Member;Male;Fashion accessories;932;2;2024-05-06;18:37:00;Credit card
+217-58-1179;A;Yangon;Member;Male;Home and lifestyle;6265;4;2024-05-06;11:25:00;Cash
+376-02-8238;B;Mandalay;Normal;Male;Home and lifestyle;9387;8;2024-05-06;18:42:00;Credit card
+530-90-9855;A;Yangon;Member;Male;Home and lifestyle;4759;8;2024-05-06;14:47:00;Cash
+866-05-7563;B;Mandalay;Member;Female;Electronic accessories;814;3;2024-05-06;19:43:00;Cash
+604-70-6476;A;Yangon;Member;Male;Fashion accessories;1794;5;2024-05-06;14:04:00;Ewallet
+799-71-1548;A;Yangon;Member;Male;Electronic accessories;7772;4;2024-05-06;16:11:00;Credit card
+785-13-7708;B;Mandalay;Normal;Male;Food and beverages;7306;7;2024-05-06;19:06:00;Credit card
+845-51-0542;B;Mandalay;Member;Male;Food and beverages;4655;9;2024-05-06;15:34:00;Ewallet
+662-47-5456;C;Naypyitaw;Member;Male;Fashion accessories;3519;10;2024-05-06;19:06:00;Credit card
+883-17-4236;C;Naypyitaw;Normal;Female;Sports and travel;1439;2;2024-05-06;19:44:00;Credit card
+290-68-2984;A;Yangon;Normal;Male;Home and lifestyle;2375;4;2024-05-06;11:22:00;Cash
+704-11-6354;A;Yangon;Member;Male;Home and lifestyle;589;8;2024-05-06;11:23:00;Cash
+110-48-7033;B;Mandalay;Member;Male;Fashion accessories;3262;4;2024-05-06;14:12:00;Cash
+366-93-0948;A;Yangon;Member;Male;Electronic accessories;6635;1;2024-05-06;10:46:00;Credit card
+729-09-9681;A;Yangon;Member;Male;Home and lifestyle;2591;6;2024-05-06;10:16:00;Ewallet
+151-16-1484;A;Yangon;Member;Male;Electronic accessories;3225;4;2024-05-06;12:38:00;Ewallet
+380-94-4661;C;Naypyitaw;Member;Male;Electronic accessories;6594;4;2024-05-06;13:05:00;Credit card
+850-41-9669;A;Yangon;Normal;Female;Electronic accessories;7506;9;2024-05-06;13:25:00;Ewallet
+821-07-3596;C;Naypyitaw;Normal;Female;Fashion accessories;1645;4;2024-05-06;14:53:00;Ewallet
+655-85-5130;B;Mandalay;Member;Female;Fashion accessories;383;4;2024-05-06;19:22:00;Cash
+447-15-7839;A;Yangon;Member;Female;Sports and travel;2224;10;2024-05-06;11:00:00;Cash
+154-74-7179;B;Mandalay;Normal;Male;Sports and travel;5445;1;2024-05-06;19:24:00;Ewallet
+253-12-6086;A;Yangon;Member;Female;Sports and travel;984;7;2024-05-06;12:43:00;Credit card
+808-65-0703;C;Naypyitaw;Normal;Male;Home and lifestyle;3547;4;2024-05-06;17:22:00;Credit card
+571-94-0759;B;Mandalay;Member;Female;Food and beverages;746;10;2024-05-06;20:55:00;Cash
+144-51-6085;A;Yangon;Member;Male;Home and lifestyle;7074;4;2024-05-06;16:05:00;Credit card
+731-14-2199;A;Yangon;Member;Female;Home and lifestyle;3554;10;2024-05-06;13:34:00;Ewallet
+783-09-1637;B;Mandalay;Normal;Female;Sports and travel;6743;5;2024-05-06;18:13:00;Ewallet
+687-15-1097;C;Naypyitaw;Member;Female;Health and beauty;2112;2;2024-05-06;19:17:00;Cash
+126-54-1082;A;Yangon;Member;Female;Home and lifestyle;2154;9;2024-05-06;11:44:00;Credit card
+633-91-1052;A;Yangon;Normal;Female;Home and lifestyle;1203;2;2024-05-06;15:51:00;Cash
+477-24-6490;B;Mandalay;Normal;Female;Health and beauty;9971;6;2024-05-06;16:52:00;Ewallet
+566-19-5475;B;Mandalay;Normal;Male;Fashion accessories;4797;7;2024-05-06;20:52:00;Cash
+526-86-8552;C;Naypyitaw;Member;Female;Home and lifestyle;2182;10;2024-05-06;17:36:00;Cash
+376-56-3573;C;Naypyitaw;Normal;Female;Fashion accessories;9542;4;2024-05-06;13:23:00;Ewallet
+537-72-0426;C;Naypyitaw;Member;Male;Fashion accessories;7099;10;2024-05-06;16:28:00;Cash
+828-61-5674;A;Yangon;Member;Male;Sports and travel;4402;10;2024-05-06;19:57:00;Credit card
+136-08-6195;A;Yangon;Normal;Female;Home and lifestyle;6996;8;2024-05-06;17:01:00;Credit card
+523-38-0215;C;Naypyitaw;Normal;Male;Home and lifestyle;37;1;2024-05-06;13:29:00;Credit card
+490-29-1201;A;Yangon;Normal;Female;Sports and travel;1534;1;2024-05-06;11:09:00;Cash
+667-92-0055;A;Yangon;Member;Male;Health and beauty;9983;6;2024-05-06;15:02:00;Ewallet
+565-17-3836;A;Yangon;Member;Female;Health and beauty;4767;4;2024-05-06;14:21:00;Cash
+498-41-1961;B;Mandalay;Normal;Male;Health and beauty;6668;5;2024-05-06;18:01:00;Cash
+593-95-4461;C;Naypyitaw;Member;Male;Home and lifestyle;7486;1;2024-05-06;14:49:00;Cash
+226-71-3580;C;Naypyitaw;Normal;Female;Sports and travel;2375;9;2024-05-06;12:02:00;Cash
+283-79-9594;B;Mandalay;Normal;Female;Food and beverages;4851;7;2024-05-06;13:30:00;Credit card
+430-60-3493;A;Yangon;Member;Female;Home and lifestyle;9488;7;2024-05-06;14:38:00;Cash
+139-20-0155;B;Mandalay;Member;Male;Electronic accessories;403;10;2024-05-06;17:37:00;Credit card
+558-80-4082;C;Naypyitaw;Normal;Male;Electronic accessories;2785;7;2024-05-06;17:20:00;Ewallet
+278-97-7759;A;Yangon;Member;Female;Electronic accessories;6248;1;2024-05-06;20:29:00;Cash
+316-68-6352;A;Yangon;Member;Female;Food and beverages;3636;2;2024-05-06;10:00:00;Cash
+585-03-5943;B;Mandalay;Normal;Male;Health and beauty;1811;10;2024-05-06;11:46:00;Ewallet
+211-05-0490;C;Naypyitaw;Member;Female;Electronic accessories;5192;5;2024-05-06;13:42:00;Cash
+727-75-6477;C;Naypyitaw;Normal;Male;Electronic accessories;2884;4;2024-05-06;14:44:00;Cash
+744-02-5987;A;Yangon;Member;Male;Home and lifestyle;7838;6;2024-05-06;14:16:00;Ewallet
+307-83-9164;A;Yangon;Member;Male;Home and lifestyle;6001;4;2024-05-06;15:54:00;Cash
+779-06-0012;C;Naypyitaw;Member;Female;Home and lifestyle;8861;1;2024-05-06;10:21:00;Cash
+446-47-6729;C;Naypyitaw;Normal;Male;Fashion accessories;9982;2;2024-05-06;18:09:00;Credit card
+573-10-3877;B;Mandalay;Member;Male;Health and beauty;3901;1;2024-05-06;16:46:00;Credit card
+735-06-4124;C;Naypyitaw;Normal;Male;Food and beverages;4861;1;2024-05-06;15:31:00;Cash
+439-54-7422;A;Yangon;Normal;Female;Electronic accessories;5119;4;2024-05-06;17:15:00;Credit card
+396-90-2219;B;Mandalay;Normal;Female;Electronic accessories;1496;8;2024-05-06;12:29:00;Cash
+411-77-0180;A;Yangon;Member;Male;Electronic accessories;722;7;2024-05-06;20:14:00;Ewallet
+286-01-5402;A;Yangon;Normal;Female;Sports and travel;4023;7;2024-05-06;13:22:00;Cash
+803-17-8013;A;Yangon;Member;Female;Home and lifestyle;8879;8;2024-05-06;17:09:00;Cash
+512-98-1403;A;Yangon;Member;Female;Electronic accessories;2648;3;2024-05-06;10:40:00;Ewallet
+848-42-2560;A;Yangon;Normal;Female;Fashion accessories;8191;2;2024-05-06;17:43:00;Cash
+532-59-7201;B;Mandalay;Member;Male;Sports and travel;7993;6;2024-05-06;14:04:00;Cash
+181-94-6432;C;Naypyitaw;Member;Male;Fashion accessories;6933;2;2024-05-06;19:05:00;Ewallet
+870-76-1733;A;Yangon;Member;Female;Food and beverages;1423;5;2024-05-06;10:08:00;Credit card
+423-64-4619;A;Yangon;Member;Female;Health and beauty;1555;9;2024-05-06;13:12:00;Cash
+227-07-4446;C;Naypyitaw;Member;Female;Electronic accessories;7813;10;2024-05-06;20:51:00;Cash
+174-36-3675;C;Naypyitaw;Member;Male;Food and beverages;9937;2;2024-05-06;17:29:00;Cash
+428-83-5800;C;Naypyitaw;Member;Female;Food and beverages;2108;3;2024-05-06;10:25:00;Cash
+603-07-0961;C;Naypyitaw;Member;Male;Electronic accessories;7479;5;2024-05-06;11:34:00;Cash
+704-20-4138;C;Naypyitaw;Member;Female;Health and beauty;2967;7;2024-05-06;18:58:00;Credit card
+787-15-1757;C;Naypyitaw;Member;Male;Health and beauty;4407;4;2024-05-06;16:28:00;Ewallet
+649-11-3678;C;Naypyitaw;Normal;Female;Food and beverages;2293;9;2024-05-06;20:26:00;Cash
+622-20-1945;C;Naypyitaw;Normal;Female;Health and beauty;3942;1;2024-05-06;15:08:00;Cash
+372-94-8041;A;Yangon;Normal;Male;Health and beauty;1526;6;2024-05-06;18:03:00;Ewallet
+563-91-7120;A;Yangon;Normal;Female;Fashion accessories;6177;5;2024-05-06;13:21:00;Cash
+746-54-5508;A;Yangon;Normal;Male;Home and lifestyle;2152;6;2024-05-06;12:48:00;Credit card
+276-54-0879;B;Mandalay;Normal;Male;Sports and travel;9774;4;2024-05-06;19:53:00;Ewallet
+815-11-1168;A;Yangon;Member;Male;Food and beverages;9978;5;2024-05-06;19:09:00;Cash
+719-76-3868;C;Naypyitaw;Member;Male;Food and beverages;9426;4;2024-05-06;16:30:00;Cash
+730-61-8757;B;Mandalay;Member;Male;Health and beauty;5113;4;2024-05-06;10:11:00;Credit card
+340-66-0321;A;Yangon;Member;Male;Electronic accessories;3636;4;2024-05-06;13:07:00;Cash
+868-81-1752;B;Mandalay;Normal;Male;Home and lifestyle;2202;9;2024-05-06;18:48:00;Cash
+634-97-8956;A;Yangon;Normal;Male;Food and beverages;329;3;2024-05-06;17:27:00;Credit card
+566-71-1091;A;Yangon;Normal;Male;Fashion accessories;7702;5;2024-05-06;15:59:00;Cash
+442-48-3607;A;Yangon;Member;Male;Food and beverages;2348;2;2024-05-06;11:21:00;Credit card
+835-16-0096;C;Naypyitaw;Member;Male;Sports and travel;147;5;2024-05-06;13:48:00;Ewallet
+527-09-6272;A;Yangon;Member;Female;Electronic accessories;2845;5;2024-05-06;10:17:00;Credit card
+898-04-2717;A;Yangon;Normal;Male;Fashion accessories;764;9;2024-05-06;15:49:00;Ewallet
+692-27-8933;B;Mandalay;Normal;Female;Sports and travel;5795;6;2024-05-06;13:02:00;Cash
+633-09-3463;C;Naypyitaw;Normal;Female;Electronic accessories;4765;3;2024-05-06;12:58:00;Credit card
+374-17-3652;B;Mandalay;Member;Female;Food and beverages;4282;9;2024-05-06;15:26:00;Credit card
+378-07-7001;B;Mandalay;Member;Male;Electronic accessories;4809;3;2024-05-06;18:23:00;Credit card
+433-75-6987;B;Mandalay;Member;Female;Health and beauty;5597;7;2024-05-06;19:06:00;Ewallet
+873-95-4984;B;Mandalay;Member;Female;Health and beauty;769;7;2024-05-06;20:21:00;Cash
+416-13-5917;C;Naypyitaw;Normal;Female;Food and beverages;9703;5;2024-05-06;16:24:00;Ewallet
+150-89-8043;A;Yangon;Normal;Male;Sports and travel;4465;3;2024-05-06;15:04:00;Cash
+135-84-8019;A;Yangon;Normal;Female;Fashion accessories;7793;9;2024-05-06;16:10:00;Ewallet
+441-94-7118;A;Yangon;Member;Male;Electronic accessories;7195;1;2024-05-06;12:14:00;Cash
+725-96-3778;C;Naypyitaw;Member;Female;Home and lifestyle;8925;8;2024-05-06;10:13:00;Cash
+531-80-1784;A;Yangon;Normal;Male;Electronic accessories;2602;7;2024-05-06;17:38:00;Cash
+400-45-1220;B;Mandalay;Normal;Female;Health and beauty;135;10;2024-05-06;11:06:00;Credit card
+860-79-0874;C;Naypyitaw;Member;Female;Fashion accessories;993;10;2024-05-06;14:53:00;Credit card
+834-61-8124;A;Yangon;Normal;Male;Electronic accessories;5169;7;2024-05-06;18:22:00;Cash
+115-99-4379;B;Mandalay;Member;Female;Fashion accessories;5473;7;2024-05-06;19:02:00;Credit card
+565-67-6697;B;Mandalay;Member;Male;Home and lifestyle;27;9;2024-05-06;14:16:00;Cash
+320-49-6392;C;Naypyitaw;Normal;Female;Electronic accessories;3024;1;2024-05-06;15:44:00;Cash
+889-04-9723;B;Mandalay;Member;Female;Food and beverages;8914;4;2024-05-06;12:20:00;Credit card
+632-90-0281;C;Naypyitaw;Normal;Female;Fashion accessories;3755;10;2024-05-06;20:01:00;Credit card
+554-42-2417;C;Naypyitaw;Normal;Female;Sports and travel;9544;10;2024-05-06;13:45:00;Cash
+453-63-6187;B;Mandalay;Normal;Male;Electronic accessories;275;3;2024-05-06;15:40:00;Ewallet
+578-80-7669;B;Mandalay;Normal;Male;Sports and travel;7497;1;2024-05-06;16:58:00;Cash
+612-36-5536;A;Yangon;Member;Male;Food and beverages;8096;8;2024-05-06;11:12:00;Credit card
+605-72-4132;C;Naypyitaw;Normal;Female;Food and beverages;9447;8;2024-05-06;15:12:00;Cash
+471-41-2823;C;Naypyitaw;Normal;Male;Food and beverages;9979;2;2024-05-06;20:37:00;Ewallet
+462-67-9126;A;Yangon;Normal;Male;Home and lifestyle;7322;6;2024-05-06;17:44:00;Cash
+272-27-9238;C;Naypyitaw;Normal;Female;Food and beverages;4124;4;2024-05-06;16:23:00;Cash
+834-25-9262;C;Naypyitaw;Normal;Female;Fashion accessories;8168;4;2024-05-06;12:12:00;Cash
+122-61-9553;C;Naypyitaw;Normal;Female;Electronic accessories;5132;9;2024-05-06;19:33:00;Cash
+468-88-0009;A;Yangon;Member;Male;Home and lifestyle;6594;4;2024-05-06;10:29:00;Cash
+613-59-9758;C;Naypyitaw;Normal;Female;Sports and travel;1436;10;2024-05-06;14:28:00;Cash
+254-31-0042;A;Yangon;Member;Male;Electronic accessories;215;9;2024-05-06;12:46:00;Credit card
+201-86-2184;B;Mandalay;Member;Female;Electronic accessories;2626;7;2024-05-06;19:40:00;Cash
+261-12-8671;B;Mandalay;Normal;Female;Fashion accessories;6096;2;2024-05-06;19:39:00;Credit card
+730-70-9830;C;Naypyitaw;Normal;Female;Home and lifestyle;7011;6;2024-05-06;17:54:00;Ewallet
+382-25-8917;C;Naypyitaw;Normal;Male;Fashion accessories;4208;6;2024-05-06;12:25:00;Cash
+422-29-8786;A;Yangon;Normal;Female;Home and lifestyle;6709;5;2024-05-06;16:47:00;Credit card
+667-23-5919;A;Yangon;Member;Female;Fashion accessories;967;5;2024-05-06;12:52:00;Ewallet
+843-01-4703;B;Mandalay;Member;Female;Home and lifestyle;3538;9;2024-05-06;19:50:00;Credit card
+743-88-1662;C;Naypyitaw;Normal;Male;Sports and travel;9549;7;2024-05-06;18:17:00;Ewallet
+595-86-2894;C;Naypyitaw;Member;Male;Fashion accessories;9698;4;2024-05-06;17:20:00;Ewallet
+182-69-8360;B;Mandalay;Normal;Female;Electronic accessories;2365;4;2024-05-06;13:32:00;Credit card
+289-15-7034;A;Yangon;Member;Male;Sports and travel;8233;4;2024-05-06;10:37:00;Credit card
+462-78-5240;C;Naypyitaw;Normal;Female;Electronic accessories;2661;2;2024-05-06;14:35:00;Cash
+868-52-7573;B;Mandalay;Normal;Female;Food and beverages;9969;5;2024-05-06;12:09:00;Cash
+153-58-4872;C;Naypyitaw;Member;Female;Food and beverages;7489;4;2024-05-06;15:32:00;Ewallet
+662-72-2873;A;Yangon;Normal;Female;Food and beverages;4094;5;2024-05-06;13:58:00;Ewallet
+525-88-7307;B;Mandalay;Member;Male;Sports and travel;7582;1;2024-05-06;13:19:00;Cash
+689-16-9784;C;Naypyitaw;Normal;Male;Food and beverages;4677;6;2024-05-06;13:37:00;Cash
+725-56-0833;A;Yangon;Normal;Female;Health and beauty;3232;10;2024-05-06;16:49:00;Credit card
+394-41-0748;C;Naypyitaw;Member;Female;Fashion accessories;5407;9;2024-05-06;14:55:00;Ewallet
+596-42-3999;B;Mandalay;Normal;Male;Food and beverages;1822;7;2024-05-06;14:04:00;Credit card
+541-89-9860;C;Naypyitaw;Member;Female;Fashion accessories;8048;3;2024-05-06;12:31:00;Cash
+173-82-9529;B;Mandalay;Normal;Female;Fashion accessories;3795;10;2024-05-06;14:51:00;Cash
+563-36-9814;A;Yangon;Member;Male;Electronic accessories;7682;1;2024-05-06;18:27:00;Ewallet
+308-47-4913;A;Yangon;Member;Female;Sports and travel;5226;10;2024-05-06;12:45:00;Credit card
+885-17-6250;A;Yangon;Normal;Female;Health and beauty;7974;1;2024-05-06;10:36:00;Ewallet
+726-27-2396;A;Yangon;Normal;Female;Health and beauty;775;5;2024-05-06;20:36:00;Ewallet
+316-01-3952;A;Yangon;Normal;Female;Food and beverages;5427;5;2024-05-06;14:16:00;Ewallet
+760-54-1821;B;Mandalay;Normal;Male;Home and lifestyle;1359;9;2024-05-06;10:26:00;Cash
+793-10-3222;B;Mandalay;Member;Female;Health and beauty;4106;6;2024-05-06;13:30:00;Credit card
+346-12-3257;B;Mandalay;Member;Male;Electronic accessories;1924;9;2024-05-06;16:28:00;Cash
+110-05-6330;C;Naypyitaw;Normal;Female;Food and beverages;3943;6;2024-05-06;20:18:00;Credit card
+651-61-0874;C;Naypyitaw;Normal;Male;Home and lifestyle;4622;4;2024-05-06;20:04:00;Credit card
+236-86-3015;C;Naypyitaw;Member;Male;Home and lifestyle;1398;1;2024-05-06;13:38:00;Ewallet
+831-64-0259;B;Mandalay;Normal;Female;Fashion accessories;3975;5;2024-05-06;10:43:00;Ewallet
+587-03-7455;C;Naypyitaw;Member;Female;Fashion accessories;9779;7;2024-05-06;17:30:00;Ewallet
+882-40-4577;A;Yangon;Member;Male;Sports and travel;6726;4;2024-05-06;15:28:00;Credit card
+732-67-5346;A;Yangon;Normal;Male;Food and beverages;1379;5;2024-05-06;19:07:00;Credit card
+725-32-9708;B;Mandalay;Member;Female;Fashion accessories;6871;4;2024-05-06;19:01:00;Cash
+256-08-8343;A;Yangon;Normal;Female;Home and lifestyle;5653;4;2024-05-06;19:48:00;Ewallet
+372-26-1506;C;Naypyitaw;Normal;Female;Fashion accessories;2382;5;2024-05-06;19:24:00;Ewallet
+244-08-0162;B;Mandalay;Normal;Female;Health and beauty;3421;10;2024-05-06;13:00:00;Cash
+569-71-4390;B;Mandalay;Normal;Male;Sports and travel;2187;2;2024-05-06;14:29:00;Ewallet
+132-23-6451;A;Yangon;Member;Male;Health and beauty;2097;5;2024-05-06;13:21:00;Cash
+696-90-2548;A;Yangon;Normal;Male;Sports and travel;2584;3;2024-05-06;18:55:00;Ewallet
+472-15-9636;A;Yangon;Normal;Male;Home and lifestyle;5093;8;2024-05-06;19:36:00;Ewallet
+268-03-6164;B;Mandalay;Normal;Male;Health and beauty;9611;1;2024-05-06;16:28:00;Ewallet
+750-57-9686;C;Naypyitaw;Normal;Female;Home and lifestyle;4538;4;2024-05-06;13:48:00;Credit card
+186-09-3669;C;Naypyitaw;Member;Female;Health and beauty;8151;1;2024-05-06;10:57:00;Ewallet
+848-07-1692;B;Mandalay;Normal;Female;Health and beauty;5722;2;2024-05-06;17:13:00;Ewallet
+745-71-3520;A;Yangon;Member;Female;Electronic accessories;2522;7;2024-05-06;10:23:00;Cash
+266-76-6436;C;Naypyitaw;Member;Female;Food and beverages;386;3;2024-05-06;13:57:00;Ewallet
+740-22-2500;C;Naypyitaw;Normal;Female;Electronic accessories;8405;3;2024-05-06;13:29:00;Cash
+271-88-8734;C;Naypyitaw;Member;Female;Fashion accessories;9721;10;2024-05-06;13:00:00;Credit card
+301-81-8610;B;Mandalay;Member;Male;Fashion accessories;2542;8;2024-05-06;19:42:00;Credit card
+489-64-4354;C;Naypyitaw;Normal;Male;Fashion accessories;1628;1;2024-05-06;15:36:00;Cash
+198-84-7132;B;Mandalay;Member;Male;Fashion accessories;4061;9;2024-05-06;13:40:00;Cash
+269-10-8440;A;Yangon;Member;Male;Health and beauty;5317;7;2024-05-06;18:01:00;Cash
+650-98-6268;B;Mandalay;Member;Female;Food and beverages;2087;3;2024-05-06;13:53:00;Credit card
+741-73-3559;B;Mandalay;Normal;Male;Sports and travel;6727;5;2024-05-06;17:27:00;Cash
+325-77-6186;A;Yangon;Member;Female;Home and lifestyle;9065;10;2024-05-06;10:53:00;Ewallet
+286-75-7818;B;Mandalay;Normal;Male;Fashion accessories;6908;2;2024-05-06;19:48:00;Credit card
+574-57-9721;C;Naypyitaw;Normal;Male;Food and beverages;4327;2;2024-05-06;16:53:00;Ewallet
+459-50-7686;A;Yangon;Normal;Female;Electronic accessories;2346;6;2024-05-06;19:14:00;Ewallet
+616-87-0016;B;Mandalay;Normal;Male;Fashion accessories;9554;7;2024-05-06;14:36:00;Credit card
+837-55-7229;B;Mandalay;Normal;Female;Fashion accessories;4744;1;2024-05-06;18:19:00;Credit card
+751-69-0068;C;Naypyitaw;Normal;Male;Sports and travel;9924;9;2024-05-06;19:09:00;Ewallet
+257-73-1380;C;Naypyitaw;Member;Male;Sports and travel;8293;4;2024-05-06;16:51:00;Ewallet
+345-08-4992;A;Yangon;Normal;Male;Home and lifestyle;3399;6;2024-05-06;15:37:00;Credit card
+549-96-4200;C;Naypyitaw;Member;Male;Food and beverages;1704;4;2024-05-06;20:15:00;Ewallet
+810-60-6344;C;Naypyitaw;Normal;Female;Electronic accessories;4086;8;2024-05-06;14:38:00;Credit card
+450-28-2866;C;Naypyitaw;Member;Male;Food and beverages;1744;5;2024-05-06;19:25:00;Cash
+394-30-3170;B;Mandalay;Member;Female;Sports and travel;8843;8;2024-05-06;19:35:00;Credit card
+138-17-5109;A;Yangon;Member;Female;Home and lifestyle;8921;9;2024-05-06;15:42:00;Credit card
+192-98-7397;C;Naypyitaw;Normal;Male;Fashion accessories;1278;1;2024-05-06;14:11:00;Ewallet
+301-11-9629;A;Yangon;Normal;Female;Sports and travel;191;7;2024-05-06;10:43:00;Cash
+390-80-5128;B;Mandalay;Member;Female;Health and beauty;1915;1;2024-05-06;17:58:00;Credit card
+235-46-8343;C;Naypyitaw;Member;Male;Food and beverages;2766;10;2024-05-06;11:26:00;Credit card
+453-12-7053;C;Naypyitaw;Normal;Male;Fashion accessories;4574;3;2024-05-06;17:38:00;Credit card
+296-11-7041;B;Mandalay;Member;Female;Health and beauty;2707;1;2024-05-06;20:07:00;Credit card
+449-27-2918;B;Mandalay;Member;Female;Sports and travel;3912;1;2024-05-06;11:02:00;Credit card
+891-01-7034;B;Mandalay;Normal;Female;Electronic accessories;7471;6;2024-05-06;19:07:00;Cash
+744-09-5786;B;Mandalay;Normal;Male;Electronic accessories;2201;6;2024-05-06;18:50:00;Cash
+727-17-0390;A;Yangon;Normal;Female;Food and beverages;6361;5;2024-05-06;12:43:00;Ewallet
+568-88-3448;A;Yangon;Normal;Male;Health and beauty;25;1;2024-05-06;15:09:00;Ewallet
+187-83-5490;A;Yangon;Member;Male;Electronic accessories;2077;4;2024-05-06;13:47:00;Cash
+767-54-1907;B;Mandalay;Member;Female;Fashion accessories;2956;5;2024-05-06;16:59:00;Cash
+710-46-4433;B;Mandalay;Member;Female;Food and beverages;774;9;2024-05-06;14:15:00;Credit card
+533-33-5337;B;Mandalay;Normal;Male;Electronic accessories;7939;10;2024-05-06;20:24:00;Cash
+325-90-8763;C;Naypyitaw;Member;Female;Electronic accessories;4657;10;2024-05-06;13:58:00;Cash
+729-46-7422;C;Naypyitaw;Normal;Male;Food and beverages;3589;1;2024-05-06;16:52:00;Credit card
+639-76-1242;C;Naypyitaw;Normal;Male;Food and beverages;4052;5;2024-05-06;15:19:00;Cash
+234-03-4040;B;Mandalay;Member;Female;Food and beverages;7305;10;2024-05-06;12:25:00;Credit card
+326-71-2155;C;Naypyitaw;Normal;Female;Sports and travel;7395;4;2024-05-06;10:02:00;Cash
+320-32-8842;C;Naypyitaw;Member;Female;Food and beverages;2262;1;2024-05-06;18:58:00;Cash
+470-32-9057;A;Yangon;Member;Male;Food and beverages;5134;5;2024-05-06;15:31:00;Credit card
+878-30-2331;C;Naypyitaw;Member;Female;Sports and travel;5455;10;2024-05-06;11:22:00;Credit card
+440-59-5691;C;Naypyitaw;Member;Female;Health and beauty;3715;7;2024-05-06;13:12:00;Credit card
+554-53-3790;B;Mandalay;Normal;Male;Sports and travel;3702;6;2024-05-06;18:33:00;Cash
+746-19-0921;C;Naypyitaw;Normal;Male;Food and beverages;2158;1;2024-05-06;10:02:00;Ewallet
+233-34-0817;C;Naypyitaw;Member;Female;Electronic accessories;9884;1;2024-05-06;11:21:00;Cash
+767-05-1286;C;Naypyitaw;Member;Female;Home and lifestyle;8377;6;2024-05-06;12:10:00;Ewallet
+340-21-9136;A;Yangon;Member;Female;Sports and travel;4005;4;2024-05-06;11:40:00;Cash
+405-31-3305;A;Yangon;Member;Male;Fashion accessories;4313;10;2024-05-06;18:31:00;Credit card
+731-59-7531;B;Mandalay;Member;Male;Health and beauty;7257;8;2024-05-06;17:58:00;Cash
+676-39-6028;A;Yangon;Member;Female;Electronic accessories;6444;5;2024-05-06;17:04:00;Cash
+502-05-1910;A;Yangon;Normal;Male;Health and beauty;6518;3;2024-05-06;20:35:00;Credit card
+485-30-8700;A;Yangon;Normal;Female;Sports and travel;3326;5;2024-05-06;16:10:00;Credit card
+598-47-9715;C;Naypyitaw;Normal;Male;Electronic accessories;8407;4;2024-05-06;16:54:00;Ewallet
+701-69-8742;B;Mandalay;Normal;Male;Sports and travel;3437;10;2024-05-06;10:11:00;Ewallet
+575-67-1508;A;Yangon;Normal;Male;Electronic accessories;386;1;2024-05-06;11:26:00;Ewallet
+541-08-3113;C;Naypyitaw;Normal;Male;Food and beverages;6597;8;2024-05-06;20:29:00;Cash
+246-11-3901;C;Naypyitaw;Normal;Female;Electronic accessories;328;10;2024-05-06;12:12:00;Cash
+674-15-9296;A;Yangon;Normal;Male;Sports and travel;3714;5;2024-05-06;13:05:00;Ewallet
+305-18-3552;B;Mandalay;Member;Male;Home and lifestyle;6038;10;2024-05-06;16:19:00;Cash
+493-65-6248;C;Naypyitaw;Member;Female;Sports and travel;3698;10;2024-05-06;19:48:00;Credit card
+438-01-4015;B;Mandalay;Member;Female;Sports and travel;4949;4;2024-05-06;15:25:00;Ewallet
+709-58-4068;B;Mandalay;Normal;Female;Fashion accessories;4109;10;2024-05-06;14:42:00;Cash
+795-49-7276;A;Yangon;Normal;Male;Fashion accessories;3715;4;2024-05-06;18:59:00;Ewallet
+556-72-8512;C;Naypyitaw;Normal;Male;Home and lifestyle;2296;1;2024-05-06;20:47:00;Cash
+627-95-3243;B;Mandalay;Member;Female;Home and lifestyle;7768;9;2024-05-06;13:21:00;Ewallet
+686-41-0932;B;Mandalay;Normal;Female;Fashion accessories;347;2;2024-05-06;19:48:00;Ewallet
+510-09-5628;A;Yangon;Member;Female;Fashion accessories;1966;10;2024-05-06;18:20:00;Credit card
+608-04-3797;B;Mandalay;Member;Female;Health and beauty;2532;8;2024-05-06;20:24:00;Ewallet
+148-82-2527;C;Naypyitaw;Member;Female;Home and lifestyle;1212;10;2024-05-06;13:44:00;Credit card
+437-53-3084;B;Mandalay;Normal;Male;Fashion accessories;9989;2;2024-05-06;11:48:00;Ewallet
+632-32-4574;B;Mandalay;Normal;Male;Sports and travel;7592;8;2024-05-06;14:14:00;Cash
+556-97-7101;C;Naypyitaw;Normal;Female;Electronic accessories;6322;2;2024-05-06;15:51:00;Cash
+862-59-8517;C;Naypyitaw;Normal;Female;Food and beverages;9024;6;2024-05-06;11:17:00;Cash
+401-18-8016;B;Mandalay;Member;Female;Sports and travel;9813;1;2024-05-06;17:36:00;Cash
+420-18-8989;A;Yangon;Member;Female;Sports and travel;5152;8;2024-05-06;15:47:00;Cash
+277-63-2961;B;Mandalay;Member;Male;Sports and travel;7397;1;2024-05-06;15:53:00;Credit card
+573-98-8548;C;Naypyitaw;Member;Female;Fashion accessories;319;1;2024-05-06;12:40:00;Ewallet
+620-02-2046;C;Naypyitaw;Normal;Male;Home and lifestyle;694;2;2024-05-06;19:48:00;Ewallet
+282-35-2475;B;Mandalay;Normal;Female;Sports and travel;9331;2;2024-05-06;17:53:00;Cash
+511-54-3087;B;Mandalay;Normal;Male;Sports and travel;8845;1;2024-05-06;16:36:00;Credit card
+726-29-6793;A;Yangon;Member;Male;Electronic accessories;2418;8;2024-05-06;20:54:00;Ewallet
+387-49-4215;B;Mandalay;Member;Female;Sports and travel;485;3;2024-05-06;12:50:00;Cash
+862-17-9201;B;Mandalay;Normal;Female;Food and beverages;8405;6;2024-05-06;10:48:00;Credit card
+291-21-5991;B;Mandalay;Member;Male;Health and beauty;6129;5;2024-05-06;14:28:00;Cash
+602-80-9671;C;Naypyitaw;Member;Female;Home and lifestyle;1595;6;2024-05-06;17:15:00;Credit card
+347-72-6115;B;Mandalay;Member;Female;Sports and travel;9074;7;2024-05-06;18:03:00;Credit card
+209-61-0206;A;Yangon;Normal;Female;Home and lifestyle;4291;5;2024-05-06;17:29:00;Ewallet
+595-27-4851;A;Yangon;Normal;Female;Fashion accessories;5428;7;2024-05-06;18:05:00;Ewallet
+189-52-0236;A;Yangon;Normal;Male;Electronic accessories;9955;7;2024-05-06;12:07:00;Cash
+503-07-0930;C;Naypyitaw;Member;Male;Sports and travel;5839;7;2024-05-06;19:49:00;Credit card
+413-20-6708;C;Naypyitaw;Member;Female;Fashion accessories;5147;1;2024-05-06;15:52:00;Ewallet
+425-85-2085;B;Mandalay;Member;Male;Health and beauty;5486;5;2024-05-06;16:48:00;Ewallet
+521-18-7827;C;Naypyitaw;Member;Male;Home and lifestyle;3939;5;2024-05-06;20:46:00;Credit card
+220-28-1851;A;Yangon;Normal;Male;Home and lifestyle;3473;2;2024-05-06;18:14:00;Ewallet
+600-38-9738;C;Naypyitaw;Member;Male;Sports and travel;7192;5;2024-05-06;15:05:00;Credit card
+734-91-1155;B;Mandalay;Normal;Female;Electronic accessories;4571;3;2024-05-06;10:34:00;Credit card
+451-28-5717;C;Naypyitaw;Member;Female;Home and lifestyle;8317;6;2024-05-06;11:23:00;Cash
+609-81-8548;A;Yangon;Member;Female;Home and lifestyle;3744;6;2024-05-06;13:55:00;Credit card
+133-14-7229;C;Naypyitaw;Normal;Male;Health and beauty;6287;2;2024-05-06;11:43:00;Cash
+534-01-4457;A;Yangon;Normal;Male;Food and beverages;8171;6;2024-05-06;14:36:00;Credit card
+719-89-8991;A;Yangon;Member;Female;Sports and travel;9141;5;2024-05-06;16:03:00;Ewallet
+286-62-6248;B;Mandalay;Normal;Male;Fashion accessories;3921;4;2024-05-06;20:03:00;Credit card
+339-38-9982;B;Mandalay;Member;Male;Fashion accessories;5986;2;2024-05-06;14:55:00;Ewallet
+827-44-5872;B;Mandalay;Member;Female;Food and beverages;5436;10;2024-05-06;11:28:00;Credit card
+827-77-7633;A;Yangon;Normal;Male;Sports and travel;9809;9;2024-05-06;19:41:00;Cash
+287-83-1405;A;Yangon;Normal;Male;Health and beauty;2543;6;2024-05-06;19:01:00;Ewallet
+435-13-4908;A;Yangon;Member;Male;Fashion accessories;8668;8;2024-05-06;18:04:00;Credit card
+857-67-9057;B;Mandalay;Normal;Male;Electronic accessories;2295;10;2024-05-06;19:20:00;Ewallet
+236-27-1144;C;Naypyitaw;Normal;Female;Food and beverages;1631;9;2024-05-06;10:31:00;Ewallet
+892-05-6689;A;Yangon;Normal;Female;Home and lifestyle;2832;5;2024-05-06;13:28:00;Ewallet
+583-41-4548;C;Naypyitaw;Normal;Male;Home and lifestyle;1667;7;2024-05-06;11:36:00;Ewallet
+339-12-4827;B;Mandalay;Member;Female;Fashion accessories;7396;1;2024-05-06;11:32:00;Credit card
+643-38-7867;A;Yangon;Normal;Male;Home and lifestyle;9794;1;2024-05-06;11:44:00;Ewallet
+308-81-0538;A;Yangon;Normal;Female;Fashion accessories;7305;4;2024-05-06;17:16:00;Credit card
+358-88-9262;C;Naypyitaw;Member;Female;Food and beverages;8748;6;2024-05-06;18:43:00;Ewallet
+460-35-4390;A;Yangon;Normal;Male;Home and lifestyle;3068;3;2024-05-06;11:00:00;Ewallet
+343-87-0864;C;Naypyitaw;Member;Male;Health and beauty;7588;1;2024-05-06;10:30:00;Credit card
+173-50-1108;B;Mandalay;Member;Female;Sports and travel;2018;4;2024-05-06;12:14:00;Credit card
+243-47-2663;C;Naypyitaw;Member;Male;Electronic accessories;1877;6;2024-05-06;16:43:00;Credit card
+841-18-8232;B;Mandalay;Normal;Female;Food and beverages;712;1;2024-05-06;20:40:00;Credit card
+701-23-5550;B;Mandalay;Member;Male;Home and lifestyle;3881;4;2024-05-06;13:40:00;Ewallet
+647-50-1224;A;Yangon;Normal;Female;Fashion accessories;2942;10;2024-05-06;16:23:00;Ewallet
+541-48-8554;A;Yangon;Normal;Male;Sports and travel;6095;9;2024-05-06;12:08:00;Credit card
+539-21-7227;B;Mandalay;Normal;Female;Sports and travel;5154;5;2024-05-06;17:45:00;Cash
+213-32-1216;A;Yangon;Normal;Female;Electronic accessories;6606;6;2024-05-06;10:28:00;Cash
+747-58-7183;B;Mandalay;Normal;Male;Fashion accessories;5727;3;2024-05-06;20:31:00;Ewallet
+582-52-8065;B;Mandalay;Normal;Female;Fashion accessories;5431;9;2024-05-06;10:49:00;Cash
+210-57-1719;B;Mandalay;Normal;Female;Health and beauty;5824;9;2024-05-06;12:34:00;Cash
+399-69-4630;C;Naypyitaw;Normal;Male;Electronic accessories;2221;6;2024-05-06;10:23:00;Credit card
+134-75-2619;A;Yangon;Member;Male;Electronic accessories;1932;7;2024-05-06;18:51:00;Cash
+356-44-8813;B;Mandalay;Normal;Male;Home and lifestyle;3748;3;2024-05-06;13:45:00;Credit card
+198-66-9832;B;Mandalay;Member;Female;Fashion accessories;7204;2;2024-05-06;19:38:00;Cash
+283-26-5248;C;Naypyitaw;Member;Female;Food and beverages;9852;10;2024-05-06;20:23:00;Ewallet
+712-39-0363;A;Yangon;Member;Male;Food and beverages;4166;6;2024-05-06;15:24:00;Ewallet
+218-59-9410;A;Yangon;Member;Female;Home and lifestyle;7242;3;2024-05-06;16:54:00;Ewallet
+174-75-0888;B;Mandalay;Normal;Male;Electronic accessories;2158;9;2024-05-06;12:32:00;Cash
+866-99-7614;C;Naypyitaw;Normal;Male;Food and beverages;892;10;2024-05-06;15:42:00;Credit card
+134-54-4720;B;Mandalay;Normal;Female;Electronic accessories;4242;8;2024-05-06;13:58:00;Ewallet
+760-90-2357;A;Yangon;Member;Male;Electronic accessories;7451;6;2024-05-06;15:08:00;Ewallet
+514-37-2845;B;Mandalay;Normal;Male;Fashion accessories;9925;2;2024-05-06;13:02:00;Cash
+698-98-5964;A;Yangon;Normal;Female;Food and beverages;8121;10;2024-05-06;13:01:00;Credit card
+718-57-9773;C;Naypyitaw;Normal;Female;Sports and travel;4933;10;2024-05-06;16:40:00;Credit card
+651-88-7328;A;Yangon;Normal;Female;Fashion accessories;6574;9;2024-05-06;13:55:00;Cash
+241-11-2261;B;Mandalay;Normal;Female;Fashion accessories;7986;7;2024-05-06;10:33:00;Credit card
+408-26-9866;C;Naypyitaw;Normal;Female;Sports and travel;7398;7;2024-05-06;16:42:00;Ewallet
+834-83-1826;B;Mandalay;Member;Female;Home and lifestyle;8204;5;2024-05-06;17:16:00;Credit card
+343-61-3544;B;Mandalay;Member;Male;Sports and travel;2667;10;2024-05-06;11:48:00;Cash
+239-48-4278;A;Yangon;Member;Male;Food and beverages;1013;7;2024-05-06;19:35:00;Ewallet
+355-34-6244;B;Mandalay;Normal;Male;Food and beverages;7239;2;2024-05-06;19:55:00;Credit card
+550-84-8664;A;Yangon;Normal;Male;Sports and travel;8591;5;2024-05-06;14:33:00;Credit card
+339-96-8318;B;Mandalay;Member;Male;Fashion accessories;8131;7;2024-05-06;19:49:00;Ewallet
+458-61-0011;B;Mandalay;Normal;Male;Food and beverages;603;4;2024-05-06;18:43:00;Cash
+592-34-6155;C;Naypyitaw;Normal;Male;Food and beverages;3177;4;2024-05-06;14:43:00;Ewallet
+797-88-0493;A;Yangon;Normal;Female;Health and beauty;6427;4;2024-05-06;13:54:00;Cash
+207-73-1363;B;Mandalay;Normal;Male;Health and beauty;6951;2;2024-05-06;12:15:00;Ewallet
+390-31-6381;C;Naypyitaw;Normal;Male;Food and beverages;2722;3;2024-05-06;12:37:00;Cash
+443-82-0585;A;Yangon;Member;Female;Health and beauty;7768;4;2024-05-06;19:54:00;Cash
+339-18-7061;C;Naypyitaw;Member;Female;Fashion accessories;9298;2;2024-05-06;15:06:00;Credit card
+359-90-3665;B;Mandalay;Member;Female;Fashion accessories;1808;4;2024-05-06;18:03:00;Credit card
+375-72-3056;B;Mandalay;Normal;Male;Sports and travel;6306;3;2024-05-06;15:58:00;Ewallet
+127-47-6963;A;Yangon;Normal;Male;Health and beauty;5171;4;2024-05-06;13:53:00;Credit card
+278-86-2735;A;Yangon;Normal;Female;Food and beverages;5234;3;2024-05-06;14:03:00;Cash
+695-28-6250;A;Yangon;Normal;Female;Sports and travel;4306;5;2024-05-06;16:38:00;Ewallet
+379-17-6588;C;Naypyitaw;Normal;Male;Fashion accessories;5961;10;2024-05-06;11:07:00;Cash
+227-50-3718;A;Yangon;Normal;Male;Health and beauty;1462;5;2024-05-06;12:23:00;Cash
+302-15-2162;C;Naypyitaw;Member;Male;Health and beauty;4653;6;2024-05-06;10:54:00;Credit card
+788-07-8452;C;Naypyitaw;Member;Female;Home and lifestyle;2424;7;2024-05-06;17:38:00;Ewallet
+560-49-6611;A;Yangon;Member;Female;Sports and travel;4558;1;2024-05-06;14:13:00;Cash
+880-35-0356;A;Yangon;Member;Female;Sports and travel;752;3;2024-05-06;11:51:00;Ewallet
+585-11-6748;B;Mandalay;Member;Male;Sports and travel;968;3;2024-05-06;13:05:00;Cash
+470-31-3286;B;Mandalay;Normal;Male;Health and beauty;1482;3;2024-05-06;11:30:00;Credit card
+152-68-2907;A;Yangon;Normal;Male;Food and beverages;522;3;2024-05-06;13:30:00;Credit card
+123-35-4896;C;Naypyitaw;Normal;Female;Sports and travel;4666;9;2024-05-06;19:11:00;Ewallet
+258-69-7810;C;Naypyitaw;Normal;Female;Fashion accessories;3685;5;2024-05-06;18:53:00;Cash
+334-64-2006;A;Yangon;Member;Female;Home and lifestyle;7032;2;2024-05-06;14:22:00;Ewallet
+219-61-4139;C;Naypyitaw;Normal;Male;Electronic accessories;8308;1;2024-05-06;17:16:00;Ewallet
+881-41-7302;C;Naypyitaw;Normal;Female;Fashion accessories;6499;1;2024-05-06;10:06:00;Credit card
+373-09-4567;C;Naypyitaw;Normal;Male;Food and beverages;7756;10;2024-05-06;20:35:00;Ewallet
+642-30-6693;B;Mandalay;Normal;Female;Sports and travel;5451;6;2024-05-06;13:54:00;Ewallet
+484-22-8230;C;Naypyitaw;Member;Female;Fashion accessories;5189;7;2024-05-06;20:08:00;Cash
+830-58-2383;B;Mandalay;Normal;Male;Home and lifestyle;3175;4;2024-05-06;15:26:00;Cash
+559-98-9873;A;Yangon;Member;Female;Fashion accessories;5365;7;2024-05-06;12:56:00;Ewallet
+544-32-5024;C;Naypyitaw;Member;Female;Food and beverages;4979;4;2024-05-06;19:16:00;Credit card
+318-12-0304;A;Yangon;Normal;Male;Fashion accessories;3061;1;2024-05-06;12:20:00;Ewallet
+349-97-8902;B;Mandalay;Member;Male;Food and beverages;5789;2;2024-05-06;10:37:00;Ewallet
+421-95-9805;A;Yangon;Normal;Female;Electronic accessories;2896;1;2024-05-06;10:18:00;Credit card
+277-35-5865;C;Naypyitaw;Member;Female;Food and beverages;9897;9;2024-05-06;11:23:00;Cash
+789-23-8625;B;Mandalay;Member;Male;Fashion accessories;9322;3;2024-05-06;11:45:00;Cash
+284-54-4231;C;Naypyitaw;Member;Male;Sports and travel;8093;1;2024-05-06;16:08:00;Credit card
+443-59-0061;A;Yangon;Member;Male;Food and beverages;6745;10;2024-05-06;11:25:00;Ewallet
+509-29-3912;A;Yangon;Member;Female;Sports and travel;3872;9;2024-05-06;12:24:00;Ewallet
+327-40-9673;B;Mandalay;Member;Male;Sports and travel;726;6;2024-05-06;19:51:00;Cash
+840-19-2096;C;Naypyitaw;Member;Male;Electronic accessories;8791;5;2024-05-06;18:10:00;Ewallet
+828-46-6863;A;Yangon;Member;Male;Food and beverages;9853;6;2024-05-06;11:22:00;Credit card
+641-96-3695;C;Naypyitaw;Member;Female;Fashion accessories;4346;6;2024-05-06;17:55:00;Ewallet
+420-97-3340;A;Yangon;Normal;Female;Food and beverages;7168;3;2024-05-06;15:30:00;Credit card
+436-54-4512;A;Yangon;Member;Female;Food and beverages;9161;1;2024-05-06;19:44:00;Cash
+670-79-6321;B;Mandalay;Member;Female;Home and lifestyle;9459;7;2024-05-06;15:27:00;Credit card
+852-62-7105;B;Mandalay;Normal;Female;Fashion accessories;8325;10;2024-05-06;11:25:00;Credit card
+598-06-7312;B;Mandalay;Member;Male;Fashion accessories;9135;1;2024-05-06;15:42:00;Cash
+135-13-8269;B;Mandalay;Member;Female;Food and beverages;7888;2;2024-05-06;16:04:00;Cash
+816-57-2053;A;Yangon;Normal;Male;Sports and travel;6087;2;2024-05-06;12:37:00;Ewallet
+628-90-8624;B;Mandalay;Member;Male;Health and beauty;8258;10;2024-05-06;14:41:00;Cash
+856-66-2701;A;Yangon;Member;Male;Home and lifestyle;533;3;2024-05-06;14:19:00;Ewallet
+308-39-1707;A;Yangon;Normal;Female;Fashion accessories;1209;1;2024-05-06;18:19:00;Credit card
+149-61-1929;A;Yangon;Normal;Male;Sports and travel;6419;10;2024-05-06;14:08:00;Credit card
+655-07-2265;A;Yangon;Normal;Male;Electronic accessories;7831;3;2024-05-06;16:38:00;Ewallet
+589-02-8023;A;Yangon;Member;Male;Food and beverages;8377;2;2024-05-06;10:54:00;Credit card
+420-04-7590;B;Mandalay;Normal;Male;Home and lifestyle;997;3;2024-05-06;11:29:00;Ewallet
+182-88-2763;B;Mandalay;Member;Male;Food and beverages;7991;3;2024-05-06;19:28:00;Credit card
+188-55-0967;B;Mandalay;Member;Male;Health and beauty;6647;10;2024-05-06;15:01:00;Credit card
+610-46-4100;A;Yangon;Normal;Male;Health and beauty;2895;7;2024-05-06;20:31:00;Credit card
+318-81-2368;C;Naypyitaw;Normal;Female;Electronic accessories;462;1;2024-05-06;12:16:00;Cash
+364-33-8584;B;Mandalay;Member;Female;Food and beverages;1763;5;2024-05-06;15:27:00;Cash
+665-63-9737;B;Mandalay;Normal;Male;Fashion accessories;5242;3;2024-05-06;17:36:00;Ewallet
+695-09-5146;B;Mandalay;Member;Female;Food and beverages;9879;3;2024-05-06;20:00:00;Ewallet
+155-45-3814;C;Naypyitaw;Member;Female;Electronic accessories;8855;8;2024-05-06;15:29:00;Ewallet
+794-32-2436;B;Mandalay;Member;Male;Electronic accessories;5567;2;2024-05-06;15:08:00;Ewallet
+131-15-8856;C;Naypyitaw;Member;Female;Food and beverages;7252;8;2024-05-06;19:26:00;Credit card
+273-84-2164;C;Naypyitaw;Member;Male;Electronic accessories;1205;5;2024-05-06;15:53:00;Ewallet
+706-36-6154;A;Yangon;Member;Male;Home and lifestyle;1936;9;2024-05-06;18:43:00;Ewallet
+778-89-7974;C;Naypyitaw;Normal;Male;Health and beauty;7021;6;2024-05-06;14:58:00;Cash
+574-31-8277;B;Mandalay;Member;Male;Fashion accessories;3363;1;2024-05-06;19:55:00;Cash
+859-71-0933;C;Naypyitaw;Member;Female;Sports and travel;1549;2;2024-05-06;15:10:00;Cash
+740-11-5257;C;Naypyitaw;Normal;Male;Electronic accessories;2474;10;2024-05-06;16:44:00;Cash
+369-82-2676;B;Mandalay;Normal;Male;Electronic accessories;7566;5;2024-05-06;18:22:00;Ewallet
+563-47-4072;B;Mandalay;Normal;Female;Health and beauty;5581;6;2024-05-06;11:52:00;Cash
+742-04-5161;A;Yangon;Member;Male;Home and lifestyle;7278;10;2024-05-06;17:24:00;Cash
+149-15-7606;B;Mandalay;Member;Male;Sports and travel;3732;9;2024-05-06;15:31:00;Ewallet
+133-77-3154;B;Mandalay;Member;Male;Fashion accessories;6018;4;2024-05-06;18:04:00;Credit card
+169-52-4504;A;Yangon;Normal;Female;Electronic accessories;1569;3;2024-05-06;14:13:00;Credit card
+250-81-7186;C;Naypyitaw;Normal;Female;Electronic accessories;9969;1;2024-05-06;10:23:00;Credit card
+562-12-5430;A;Yangon;Member;Female;Fashion accessories;8815;3;2024-05-06;10:11:00;Ewallet
+816-72-8853;A;Yangon;Member;Female;Sports and travel;2793;5;2024-05-06;15:48:00;Cash
+491-38-3499;A;Yangon;Member;Male;Fashion accessories;5545;1;2024-05-06;17:46:00;Credit card
+322-02-2271;B;Mandalay;Normal;Female;Sports and travel;4297;3;2024-05-06;11:46:00;Cash
+842-29-4695;C;Naypyitaw;Member;Male;Sports and travel;1714;7;2024-05-06;12:07:00;Credit card
+725-67-2480;B;Mandalay;Member;Female;Fashion accessories;5875;6;2024-05-06;18:14:00;Credit card
+641-51-2661;C;Naypyitaw;Member;Female;Food and beverages;871;10;2024-05-06;14:45:00;Credit card
+714-02-3114;C;Naypyitaw;Normal;Female;Sports and travel;988;2;2024-05-06;11:39:00;Cash
+518-17-2983;A;Yangon;Normal;Female;Fashion accessories;4863;4;2024-05-06;15:44:00;Ewallet
+779-42-2410;B;Mandalay;Member;Male;Food and beverages;5774;3;2024-05-06;13:06:00;Ewallet
+190-14-3147;B;Mandalay;Normal;Female;Health and beauty;1797;4;2024-05-06;20:43:00;Ewallet
+408-66-6712;C;Naypyitaw;Member;Female;Health and beauty;4771;6;2024-05-06;14:19:00;Ewallet
+679-22-6530;B;Mandalay;Normal;Female;Sports and travel;4062;2;2024-05-06;10:01:00;Credit card
+588-47-8641;A;Yangon;Member;Male;Fashion accessories;5604;10;2024-05-06;19:30:00;Ewallet
+642-61-4706;B;Mandalay;Member;Male;Food and beverages;934;2;2024-05-06;16:34:00;Cash
+576-31-4774;B;Mandalay;Normal;Female;Health and beauty;7341;3;2024-05-06;13:10:00;Ewallet
+556-41-6224;C;Naypyitaw;Normal;Male;Health and beauty;3364;8;2024-05-06;17:10:00;Credit card
+811-03-8790;A;Yangon;Normal;Female;Electronic accessories;4548;10;2024-05-06;10:22:00;Credit card
+242-11-3142;B;Mandalay;Member;Male;Fashion accessories;8377;2;2024-05-06;19:57:00;Cash
+752-23-3760;B;Mandalay;Member;Female;Sports and travel;6408;7;2024-05-06;19:29:00;Credit card
+274-05-5470;A;Yangon;Member;Female;Food and beverages;7347;4;2024-05-06;18:30:00;Cash
+648-94-3045;C;Naypyitaw;Normal;Male;Health and beauty;5895;10;2024-05-06;14:27:00;Ewallet
+130-67-4723;A;Yangon;Member;Male;Food and beverages;485;6;2024-05-06;13:57:00;Ewallet
+528-87-5606;B;Mandalay;Member;Female;Electronic accessories;3948;1;2024-05-06;19:43:00;Cash
+320-85-2052;B;Mandalay;Normal;Female;Sports and travel;3481;1;2024-05-06;10:11:00;Credit card
+370-96-0655;C;Naypyitaw;Normal;Female;Fashion accessories;4932;6;2024-05-06;13:46:00;Ewallet
+105-10-6182;A;Yangon;Member;Male;Fashion accessories;2148;2;2024-05-06;12:22:00;Ewallet
+510-79-0415;B;Mandalay;Member;Female;Sports and travel;2308;6;2024-05-06;19:20:00;Ewallet
+241-96-5076;B;Mandalay;Member;Female;Home and lifestyle;491;2;2024-05-06;12:58:00;Credit card
+767-97-4650;B;Mandalay;Member;Female;Sports and travel;6483;2;2024-05-06;11:59:00;Credit card
+648-83-1321;A;Yangon;Member;Male;Home and lifestyle;6356;10;2024-05-06;17:59:00;Cash
+173-57-2300;C;Naypyitaw;Member;Male;Sports and travel;7288;2;2024-05-06;12:51:00;Cash
+305-03-2383;A;Yangon;Normal;Female;Food and beverages;671;3;2024-05-06;10:36:00;Cash
+394-55-6384;C;Naypyitaw;Member;Female;Sports and travel;7019;9;2024-05-06;13:38:00;Cash
+266-20-6657;C;Naypyitaw;Member;Male;Food and beverages;5504;7;2024-05-06;19:39:00;Ewallet
+689-05-1884;A;Yangon;Member;Male;Health and beauty;4863;10;2024-05-06;12:44:00;Cash
+196-01-2849;C;Naypyitaw;Member;Female;Fashion accessories;7338;7;2024-05-06;13:56:00;Cash
+372-62-5264;C;Naypyitaw;Normal;Female;Food and beverages;526;9;2024-05-06;14:42:00;Cash
+800-09-8606;A;Yangon;Member;Female;Home and lifestyle;8737;5;2024-05-06;19:45:00;Cash
+182-52-7000;A;Yangon;Member;Female;Sports and travel;2704;4;2024-05-06;20:26:00;Ewallet
+826-58-8051;B;Mandalay;Normal;Male;Home and lifestyle;6219;4;2024-05-06;19:46:00;Ewallet
+868-06-0466;A;Yangon;Member;Male;Electronic accessories;6958;9;2024-05-06;19:38:00;Credit card
+751-41-9720;C;Naypyitaw;Normal;Male;Home and lifestyle;975;10;2024-05-06;16:18:00;Ewallet
+626-43-7888;C;Naypyitaw;Normal;Female;Fashion accessories;6041;8;2024-05-06;12:23:00;Ewallet
+176-64-7711;B;Mandalay;Normal;Male;Food and beverages;3232;3;2024-05-06;19:11:00;Credit card
+191-29-0321;B;Mandalay;Member;Female;Fashion accessories;1977;10;2024-05-06;18:57:00;Credit card
+729-06-2010;B;Mandalay;Member;Male;Health and beauty;8047;9;2024-05-06;11:18:00;Cash
+640-48-5028;B;Mandalay;Member;Female;Home and lifestyle;8839;9;2024-05-06;12:40:00;Cash
+186-79-9562;B;Mandalay;Normal;Male;Health and beauty;7177;7;2024-05-06;14:06:00;Cash
+834-45-5519;B;Mandalay;Normal;Female;Electronic accessories;43;4;2024-05-06;20:48:00;Ewallet
+162-65-8559;C;Naypyitaw;Member;Male;Food and beverages;6898;1;2024-05-06;20:13:00;Cash
+760-27-5490;C;Naypyitaw;Normal;Male;Fashion accessories;1562;8;2024-05-06;20:37:00;Ewallet
+445-30-9252;A;Yangon;Normal;Male;Sports and travel;257;3;2024-05-06;17:59:00;Ewallet
+786-94-2700;A;Yangon;Member;Male;Food and beverages;8062;6;2024-05-06;20:18:00;Cash
+728-88-7867;C;Naypyitaw;Member;Female;Home and lifestyle;7553;4;2024-05-06;15:52:00;Ewallet
+183-21-3799;C;Naypyitaw;Normal;Female;Electronic accessories;7763;9;2024-05-06;15:14:00;Ewallet
+268-20-3585;C;Naypyitaw;Normal;Female;Health and beauty;1385;9;2024-05-06;12:50:00;Ewallet
+735-32-9839;C;Naypyitaw;Member;Male;Fashion accessories;987;8;2024-05-06;10:36:00;Ewallet
+258-92-7466;A;Yangon;Normal;Female;Health and beauty;3568;5;2024-05-06;18:33:00;Credit card
+857-16-3520;A;Yangon;Member;Female;Fashion accessories;7146;7;2024-05-06;16:06:00;Ewallet
+482-17-1179;A;Yangon;Member;Male;Electronic accessories;1194;3;2024-05-06;12:47:00;Credit card
+788-21-5741;A;Yangon;Normal;Male;Fashion accessories;4538;3;2024-05-06;13:34:00;Credit card
+821-14-9046;B;Mandalay;Member;Female;Fashion accessories;1748;6;2024-05-06;15:04:00;Credit card
+418-05-0656;B;Mandalay;Normal;Female;Fashion accessories;2556;7;2024-05-06;20:42:00;Cash
+678-79-0726;C;Naypyitaw;Member;Female;Sports and travel;9063;9;2024-05-06;15:28:00;Cash
+776-68-1096;B;Mandalay;Normal;Male;Home and lifestyle;4412;3;2024-05-06;13:45:00;Credit card
+592-46-1692;C;Naypyitaw;Member;Female;Food and beverages;3677;7;2024-05-06;20:10:00;Cash
+434-35-9162;B;Mandalay;Member;Male;Food and beverages;2334;4;2024-05-06;18:53:00;Ewallet
+149-14-0304;C;Naypyitaw;Member;Female;Health and beauty;285;8;2024-05-06;14:24:00;Cash
+442-44-6497;C;Naypyitaw;Member;Male;Home and lifestyle;5557;3;2024-05-06;11:42:00;Credit card
+174-64-0215;B;Mandalay;Normal;Male;Sports and travel;6974;10;2024-05-06;17:49:00;Credit card
+210-74-9613;C;Naypyitaw;Normal;Male;Fashion accessories;9726;4;2024-05-06;15:33:00;Ewallet
+299-29-0180;B;Mandalay;Member;Female;Home and lifestyle;5218;7;2024-05-06;10:54:00;Cash
+247-11-2470;A;Yangon;Member;Female;Fashion accessories;2232;4;2024-05-06;16:23:00;Credit card
+635-28-5728;A;Yangon;Normal;Male;Health and beauty;56;3;2024-05-06;19:33:00;Ewallet
+756-49-0168;A;Yangon;Member;Male;Fashion accessories;197;1;2024-05-06;11:39:00;Ewallet
+438-23-1242;B;Mandalay;Normal;Male;Electronic accessories;7588;7;2024-05-06;10:38:00;Ewallet
+238-45-6950;B;Mandalay;Member;Male;Food and beverages;5372;1;2024-05-06;20:03:00;Ewallet
+607-65-2441;C;Naypyitaw;Member;Male;Health and beauty;8195;10;2024-05-06;12:39:00;Credit card
+386-27-7606;C;Naypyitaw;Member;Female;Home and lifestyle;812;7;2024-05-06;15:59:00;Credit card
+137-63-5492;C;Naypyitaw;Normal;Male;Electronic accessories;5876;10;2024-05-06;14:26:00;Ewallet
+197-77-7132;B;Mandalay;Member;Male;Electronic accessories;9156;8;2024-05-06;18:22:00;Ewallet
+805-86-0265;A;Yangon;Normal;Male;Home and lifestyle;9396;9;2024-05-06;11:32:00;Cash
+733-29-1227;C;Naypyitaw;Normal;Male;Home and lifestyle;5561;7;2024-05-06;12:41:00;Cash
+451-73-2711;C;Naypyitaw;Normal;Male;Food and beverages;8483;1;2024-05-06;15:20:00;Ewallet
+373-14-0504;A;Yangon;Member;Female;Sports and travel;7163;2;2024-05-06;14:33:00;Ewallet
+546-80-2899;A;Yangon;Member;Male;Home and lifestyle;3769;2;2024-05-06;15:29:00;Ewallet
+345-68-9016;C;Naypyitaw;Member;Female;Sports and travel;3167;8;2024-05-06;16:19:00;Credit card
+390-17-5806;C;Naypyitaw;Member;Female;Food and beverages;3842;1;2024-05-06;16:33:00;Cash
+457-13-1708;B;Mandalay;Member;Male;Fashion accessories;6523;10;2024-05-06;19:07:00;Credit card
+664-14-2882;C;Naypyitaw;Member;Female;Home and lifestyle;1053;5;2024-05-06;14:43:00;Credit card
+487-79-6868;B;Mandalay;Member;Female;Home and lifestyle;1229;9;2024-05-06;19:28:00;Credit card
+314-23-4520;C;Naypyitaw;Member;Male;Health and beauty;8123;7;2024-05-06;20:44:00;Cash
+210-30-7976;B;Mandalay;Member;Female;Fashion accessories;2232;4;2024-05-06;11:16:00;Ewallet
+585-86-8361;A;Yangon;Normal;Female;Food and beverages;2728;5;2024-05-06;10:31:00;Credit card
+807-14-7833;A;Yangon;Member;Female;Electronic accessories;1742;10;2024-05-06;12:30:00;Ewallet
+775-72-1988;B;Mandalay;Normal;Male;Home and lifestyle;7328;5;2024-05-06;15:05:00;Ewallet
+288-38-3758;C;Naypyitaw;Member;Female;Fashion accessories;8487;3;2024-05-06;18:30:00;Ewallet
+652-43-6591;A;Yangon;Normal;Female;Fashion accessories;9729;8;2024-05-06;13:18:00;Credit card
+785-96-0615;B;Mandalay;Member;Female;Electronic accessories;3574;8;2024-05-06;15:28:00;Ewallet
+406-46-7107;A;Yangon;Normal;Female;Home and lifestyle;9652;6;2024-05-06;11:52:00;Cash
+250-17-5703;A;Yangon;Member;Male;Food and beverages;1885;10;2024-05-06;18:24:00;Ewallet
+156-95-3964;A;Yangon;Normal;Female;Food and beverages;5539;4;2024-05-06;15:19:00;Ewallet
+842-40-8179;B;Mandalay;Member;Female;Food and beverages;772;10;2024-05-06;10:38:00;Credit card
+525-09-8450;B;Mandalay;Normal;Male;Electronic accessories;7213;10;2024-05-06;15:12:00;Credit card
+410-67-1709;A;Yangon;Member;Female;Fashion accessories;6388;8;2024-05-06;17:48:00;Ewallet
+587-73-4862;A;Yangon;Member;Female;Health and beauty;1069;5;2024-05-06;11:07:00;Ewallet
+787-87-2010;A;Yangon;Member;Male;Health and beauty;555;4;2024-05-06;15:48:00;Credit card
+593-14-4239;B;Mandalay;Normal;Female;Home and lifestyle;9546;8;2024-05-06;19:40:00;Ewallet
+801-88-0346;C;Naypyitaw;Normal;Female;Fashion accessories;7606;3;2024-05-06;20:30:00;Credit card
+388-76-2555;B;Mandalay;Normal;Male;Sports and travel;1369;6;2024-05-06;13:59:00;Cash
+711-31-1234;B;Mandalay;Normal;Female;Electronic accessories;9564;4;2024-05-06;18:51:00;Cash
+886-54-6089;A;Yangon;Normal;Female;Home and lifestyle;1143;6;2024-05-06;17:24:00;Cash
+707-32-7409;B;Mandalay;Member;Female;Sports and travel;9554;4;2024-05-06;11:58:00;Ewallet
+759-98-4285;C;Naypyitaw;Member;Female;Health and beauty;8587;7;2024-05-06;19:01:00;Credit card
+201-63-8275;C;Naypyitaw;Member;Female;Sports and travel;6799;7;2024-05-06;16:50:00;Ewallet
+471-06-8611;C;Naypyitaw;Normal;Female;Food and beverages;5242;1;2024-05-06;10:22:00;Credit card
+200-16-5952;C;Naypyitaw;Member;Male;Food and beverages;6565;2;2024-05-06;16:46:00;Cash
+120-54-2248;B;Mandalay;Normal;Female;Food and beverages;2886;5;2024-05-06;18:08:00;Credit card
+102-77-2261;C;Naypyitaw;Member;Male;Health and beauty;6531;7;2024-05-06;18:02:00;Credit card
+875-31-8302;B;Mandalay;Normal;Male;Sports and travel;9338;1;2024-05-06;13:07:00;Cash
+102-06-2002;C;Naypyitaw;Member;Male;Sports and travel;2525;5;2024-05-06;17:52:00;Cash
+457-94-0464;B;Mandalay;Member;Male;Electronic accessories;8787;9;2024-05-06;20:32:00;Ewallet
+629-42-4133;C;Naypyitaw;Normal;Male;Health and beauty;218;8;2024-05-06;19:24:00;Cash
+534-53-3526;A;Yangon;Normal;Female;Sports and travel;9476;4;2024-05-06;16:06:00;Ewallet
+307-04-2070;A;Yangon;Member;Female;Fashion accessories;3062;1;2024-05-06;14:14:00;Credit card
+468-99-7231;C;Naypyitaw;Normal;Female;Home and lifestyle;4401;8;2024-05-06;17:36:00;Cash
+516-77-6464;C;Naypyitaw;Member;Female;Health and beauty;1016;5;2024-05-06;13:08:00;Ewallet
+404-91-5964;A;Yangon;Normal;Male;Electronic accessories;7458;7;2024-05-06;16:09:00;Credit card
+886-77-9084;C;Naypyitaw;Normal;Male;Electronic accessories;7189;8;2024-05-06;11:33:00;Ewallet
+790-38-4466;C;Naypyitaw;Normal;Female;Health and beauty;1099;5;2024-05-06;10:18:00;Credit card
+704-10-4056;C;Naypyitaw;Member;Male;Health and beauty;6047;3;2024-05-06;10:55:00;Credit card
+497-37-6538;A;Yangon;Normal;Male;Sports and travel;5891;7;2024-05-06;15:15:00;Ewallet
+651-96-5970;A;Yangon;Normal;Male;Fashion accessories;4641;1;2024-05-06;20:06:00;Credit card
+400-80-4065;C;Naypyitaw;Member;Male;Health and beauty;6855;4;2024-05-06;20:21:00;Credit card
+744-16-7898;B;Mandalay;Normal;Female;Home and lifestyle;9737;10;2024-05-06;13:48:00;Credit card
+263-12-5321;A;Yangon;Member;Male;Electronic accessories;926;7;2024-05-06;12:52:00;Credit card
+702-72-0487;A;Yangon;Normal;Female;Electronic accessories;4661;2;2024-05-06;12:28:00;Credit card
+605-83-1050;B;Mandalay;Normal;Male;Fashion accessories;2718;2;2024-05-06;16:26:00;Ewallet
+443-60-9639;C;Naypyitaw;Member;Female;Home and lifestyle;6087;1;2024-05-06;13:24:00;Cash
+864-24-7918;A;Yangon;Member;Female;Sports and travel;2449;10;2024-05-06;15:15:00;Cash
+359-94-5395;B;Mandalay;Normal;Male;Health and beauty;9278;1;2024-05-06;10:50:00;Credit card
+401-09-4232;C;Naypyitaw;Member;Male;Home and lifestyle;8669;5;2024-05-06;18:38:00;Ewallet
+751-15-6198;B;Mandalay;Normal;Male;Sports and travel;2301;6;2024-05-06;16:45:00;Ewallet
+324-41-6833;C;Naypyitaw;Member;Female;Electronic accessories;302;8;2024-05-06;19:30:00;Ewallet
+474-33-8305;C;Naypyitaw;Member;Male;Fashion accessories;6739;7;2024-05-06;13:23:00;Ewallet
+759-29-9521;A;Yangon;Member;Female;Fashion accessories;4896;9;2024-05-06;11:27:00;Cash
+831-81-6575;B;Mandalay;Member;Female;Electronic accessories;7559;9;2024-05-06;11:12:00;Cash
+220-68-6701;A;Yangon;Normal;Female;Home and lifestyle;7747;4;2024-05-06;16:36:00;Cash
+618-34-8551;A;Yangon;Normal;Female;Sports and travel;9318;2;2024-05-06;18:41:00;Credit card
+257-60-7754;A;Yangon;Normal;Female;Electronic accessories;5023;4;2024-05-06;17:12:00;Cash
+559-61-5987;B;Mandalay;Normal;Female;Health and beauty;1775;1;2024-05-06;10:38:00;Cash
+189-55-2313;C;Naypyitaw;Normal;Female;Fashion accessories;6218;10;2024-05-06;10:33:00;Ewallet
+565-91-4567;B;Mandalay;Normal;Male;Health and beauty;1075;8;2024-05-06;14:38:00;Ewallet
+380-60-5336;A;Yangon;Normal;Female;Electronic accessories;4026;10;2024-05-06;18:06:00;Credit card
+815-04-6282;C;Naypyitaw;Member;Female;Sports and travel;6497;5;2024-05-06;12:52:00;Credit card
+674-56-6360;A;Yangon;Normal;Male;Electronic accessories;9515;1;2024-05-06;14:00:00;Cash
+778-34-2523;A;Yangon;Member;Female;Electronic accessories;4862;8;2024-05-06;10:57:00;Cash
+499-27-7781;B;Mandalay;Normal;Female;Food and beverages;5321;8;2024-05-06;16:45:00;Ewallet
+477-59-2456;C;Naypyitaw;Normal;Female;Fashion accessories;4544;7;2024-05-06;11:15:00;Cash
+832-51-6761;A;Yangon;Normal;Male;Food and beverages;3388;8;2024-05-06;20:29:00;Ewallet
+869-11-3082;B;Mandalay;Member;Male;Health and beauty;9616;4;2024-05-06;20:03:00;Credit card
+190-59-3964;B;Mandalay;Member;Male;Food and beverages;4716;5;2024-05-06;14:35:00;Credit card
+366-43-6862;B;Mandalay;Normal;Male;Electronic accessories;5289;4;2024-05-06;16:32:00;Ewallet
+186-43-8965;A;Yangon;Member;Female;Home and lifestyle;4768;2;2024-05-06;10:10:00;Credit card
+784-21-9238;C;Naypyitaw;Member;Male;Sports and travel;1017;1;2024-05-06;14:15:00;Cash
+276-75-6884;A;Yangon;Normal;Female;Health and beauty;6871;3;2024-05-06;10:05:00;Cash
+109-86-4363;B;Mandalay;Member;Female;Sports and travel;6008;7;2024-05-06;11:36:00;Credit card
+569-76-2760;A;Yangon;Member;Female;Sports and travel;2201;4;2024-05-06;18:15:00;Credit card
+222-42-0244;B;Mandalay;Member;Female;Health and beauty;7211;9;2024-05-06;13:53:00;Credit card
+760-53-9233;A;Yangon;Member;Male;Fashion accessories;4128;3;2024-05-06;18:37:00;Credit card
+538-22-0304;C;Naypyitaw;Normal;Male;Electronic accessories;6495;10;2024-05-06;18:27:00;Cash
+416-17-9926;A;Yangon;Member;Female;Electronic accessories;7422;10;2024-05-06;14:42:00;Credit card
+237-44-6163;A;Yangon;Normal;Male;Electronic accessories;1056;8;2024-05-06;17:43:00;Cash
+636-17-0325;B;Mandalay;Normal;Male;Health and beauty;6257;4;2024-05-06;18:37:00;Cash
+343-75-9322;B;Mandalay;Member;Female;Sports and travel;1185;8;2024-05-06;16:34:00;Cash
+528-14-9470;A;Yangon;Member;Male;Health and beauty;913;1;2024-05-06;14:42:00;Ewallet
+427-45-9297;B;Mandalay;Member;Female;Home and lifestyle;4073;7;2024-05-06;11:01:00;Ewallet
+807-34-3742;A;Yangon;Normal;Male;Fashion accessories;5238;1;2024-05-06;19:44:00;Cash
+288-62-1085;A;Yangon;Member;Male;Fashion accessories;3854;5;2024-05-06;13:34:00;Ewallet
+670-71-7306;B;Mandalay;Normal;Male;Sports and travel;4463;6;2024-05-06;20:08:00;Credit card
+660-29-7083;C;Naypyitaw;Normal;Male;Electronic accessories;5587;10;2024-05-06;15:01:00;Cash
+271-77-8740;C;Naypyitaw;Member;Female;Sports and travel;2922;6;2024-05-06;11:40:00;Ewallet
+497-36-0989;A;Yangon;Normal;Male;Fashion accessories;5194;3;2024-05-06;15:21:00;Cash
+291-59-1384;B;Mandalay;Normal;Male;Electronic accessories;603;1;2024-05-06;17:38:00;Cash
+860-73-6466;A;Yangon;Member;Female;Sports and travel;3947;2;2024-05-06;16:16:00;Credit card
+549-23-9016;C;Naypyitaw;Member;Female;Food and beverages;1487;2;2024-05-06;18:15:00;Credit card
+896-34-0956;A;Yangon;Normal;Male;Fashion accessories;2132;1;2024-05-06;12:43:00;Cash
+804-38-3935;A;Yangon;Member;Male;Electronic accessories;9378;3;2024-05-06;11:32:00;Credit card
+585-90-0249;A;Yangon;Member;Male;Electronic accessories;7326;1;2024-05-06;18:08:00;Ewallet
+862-29-5914;C;Naypyitaw;Normal;Female;Sports and travel;2238;1;2024-05-06;17:08:00;Credit card
+845-94-6841;C;Naypyitaw;Member;Female;Food and beverages;7288;9;2024-05-06;19:38:00;Cash
+125-45-2293;A;Yangon;Normal;Female;Fashion accessories;991;6;2024-05-06;13:11:00;Cash
+843-73-4724;A;Yangon;Normal;Male;Fashion accessories;741;1;2024-05-06;11:05:00;Cash
+409-33-9708;A;Yangon;Normal;Female;Fashion accessories;9848;2;2024-05-06;10:12:00;Ewallet
+658-66-3967;C;Naypyitaw;Normal;Male;Health and beauty;5319;7;2024-05-06;15:42:00;Ewallet
+866-70-2814;B;Mandalay;Normal;Female;Electronic accessories;5279;10;2024-05-06;11:58:00;Ewallet
+160-22-2687;A;Yangon;Member;Female;Health and beauty;9595;5;2024-05-06;14:21:00;Ewallet
+895-03-6665;B;Mandalay;Normal;Female;Fashion accessories;3651;9;2024-05-06;10:52:00;Cash
+770-42-8960;B;Mandalay;Normal;Male;Food and beverages;2112;8;2024-05-06;19:31:00;Cash
+748-45-2862;A;Yangon;Member;Female;Home and lifestyle;2831;4;2024-05-06;18:35:00;Cash
+234-36-2483;B;Mandalay;Normal;Male;Health and beauty;5759;6;2024-05-06;13:51:00;Cash
+316-66-3011;A;Yangon;Member;Female;Food and beverages;4763;9;2024-05-06;12:35:00;Cash
+848-95-6252;C;Naypyitaw;Member;Female;Home and lifestyle;8627;1;2024-05-06;13:24:00;Ewallet
+840-76-5966;A;Yangon;Member;Male;Sports and travel;1276;2;2024-05-06;18:06:00;Ewallet
+152-03-4217;B;Mandalay;Normal;Female;Home and lifestyle;1128;9;2024-05-06;11:55:00;Credit card
+533-66-5566;B;Mandalay;Normal;Female;Home and lifestyle;5107;7;2024-05-06;11:42:00;Cash
+124-31-1458;A;Yangon;Member;Female;Electronic accessories;7959;3;2024-05-06;14:30:00;Cash
+176-78-1170;C;Naypyitaw;Member;Male;Health and beauty;3381;3;2024-05-06;15:11:00;Ewallet
+361-59-0574;B;Mandalay;Member;Male;Sports and travel;9053;8;2024-05-06;14:48:00;Credit card
+101-81-4070;C;Naypyitaw;Member;Female;Health and beauty;6282;2;2024-05-06;12:36:00;Ewallet
+631-34-1880;C;Naypyitaw;Member;Male;Food and beverages;2431;3;2024-05-06;19:09:00;Credit card
+852-82-2749;A;Yangon;Normal;Male;Sports and travel;6459;4;2024-05-06;13:35:00;Ewallet
+873-14-6353;A;Yangon;Member;Male;Food and beverages;2482;7;2024-05-06;10:33:00;Credit card
+584-66-4073;C;Naypyitaw;Normal;Male;Fashion accessories;565;1;2024-05-06;15:45:00;Ewallet
+544-55-9589;B;Mandalay;Member;Female;Electronic accessories;2143;10;2024-05-06;11:51:00;Cash
+166-19-2553;A;Yangon;Member;Male;Sports and travel;8906;6;2024-05-06;17:26:00;Cash
+737-88-5876;A;Yangon;Member;Male;Home and lifestyle;2329;4;2024-05-06;11:52:00;Credit card
+154-87-7367;C;Naypyitaw;Normal;Male;Home and lifestyle;6526;8;2024-05-06;14:04:00;Ewallet
+885-56-0389;C;Naypyitaw;Member;Male;Fashion accessories;5235;1;2024-05-06;17:49:00;Cash
+608-05-3804;B;Mandalay;Member;Male;Electronic accessories;3975;1;2024-05-06;20:19:00;Cash
+448-61-3783;A;Yangon;Normal;Female;Electronic accessories;9002;8;2024-05-06;16:08:00;Credit card
+761-49-0439;B;Mandalay;Member;Female;Electronic accessories;121;8;2024-05-06;10:17:00;Ewallet
+490-95-0021;B;Mandalay;Member;Female;Food and beverages;3321;10;2024-05-06;14:25:00;Ewallet
+115-38-7388;C;Naypyitaw;Member;Female;Fashion accessories;1018;8;2024-05-06;12:51:00;Credit card
+311-13-6971;B;Mandalay;Member;Male;Sports and travel;3199;10;2024-05-06;15:18:00;Credit card
+291-55-6563;A;Yangon;Member;Female;Home and lifestyle;3442;6;2024-05-06;12:45:00;Ewallet
+548-48-3156;A;Yangon;Member;Female;Food and beverages;8334;2;2024-05-06;13:37:00;Cash
+460-93-5834;A;Yangon;Normal;Male;Sports and travel;4558;7;2024-05-06;10:03:00;Cash
+325-89-4209;A;Yangon;Member;Male;Food and beverages;879;1;2024-05-06;19:42:00;Ewallet
+884-80-6021;A;Yangon;Member;Female;Electronic accessories;7347;10;2024-05-06;13:14:00;Ewallet
+137-74-8729;C;Naypyitaw;Normal;Female;Fashion accessories;1219;8;2024-05-06;12:47:00;Ewallet
+880-46-5796;A;Yangon;Member;Male;Sports and travel;7692;10;2024-05-06;19:53:00;Ewallet
+389-70-2397;C;Naypyitaw;Normal;Female;Health and beauty;8366;5;2024-05-06;10:26:00;Cash
+114-35-5271;B;Mandalay;Normal;Female;Electronic accessories;5791;8;2024-05-06;15:06:00;Cash
+607-76-6216;C;Naypyitaw;Member;Female;Fashion accessories;9249;5;2024-05-06;16:35:00;Credit card
+715-20-1673;B;Mandalay;Normal;Male;Electronic accessories;2838;5;2024-05-06;20:57:00;Cash
+811-35-1094;B;Mandalay;Member;Male;Electronic accessories;5045;6;2024-05-06;15:16:00;Credit card
+699-88-1972;B;Mandalay;Normal;Male;Health and beauty;9916;8;2024-05-06;17:47:00;Credit card
+781-84-8059;C;Naypyitaw;Normal;Male;Fashion accessories;6074;7;2024-05-06;16:23:00;Ewallet
+409-49-6995;C;Naypyitaw;Member;Female;Food and beverages;4727;6;2024-05-06;10:17:00;Cash
+725-54-0677;C;Naypyitaw;Member;Male;Health and beauty;856;7;2024-05-06;13:50:00;Cash
+146-09-5432;A;Yangon;Member;Male;Food and beverages;3504;9;2024-05-06;19:17:00;Ewallet
+377-79-7592;C;Naypyitaw;Member;Female;Electronic accessories;4484;9;2024-05-06;14:00:00;Credit card
+509-10-0516;B;Mandalay;Normal;Male;Home and lifestyle;4597;4;2024-05-06;12:02:00;Ewallet
+595-94-9924;A;Yangon;Member;Female;Health and beauty;2773;5;2024-05-06;20:21:00;Credit card
+865-41-9075;A;Yangon;Normal;Male;Food and beverages;1153;7;2024-05-06;17:35:00;Cash
+545-07-8534;C;Naypyitaw;Normal;Female;Health and beauty;5832;2;2024-05-06;12:42:00;Ewallet
+118-62-1812;C;Naypyitaw;Member;Female;Home and lifestyle;7838;4;2024-05-06;17:56:00;Cash
+450-42-3339;C;Naypyitaw;Normal;Male;Health and beauty;8461;10;2024-05-06;18:58:00;Credit card
+851-98-3555;B;Mandalay;Normal;Female;Health and beauty;8288;5;2024-05-06;14:08:00;Credit card
+186-71-5196;A;Yangon;Member;Female;Food and beverages;7954;2;2024-05-06;16:30:00;Ewallet
+624-01-8356;B;Mandalay;Normal;Female;Home and lifestyle;4901;10;2024-05-06;10:44:00;Credit card
+313-66-9943;B;Mandalay;Member;Female;Food and beverages;2915;3;2024-05-06;20:29:00;Credit card
+151-27-8496;C;Naypyitaw;Normal;Female;Electronic accessories;5613;4;2024-05-06;11:43:00;Ewallet
+453-33-6436;A;Yangon;Normal;Female;Home and lifestyle;9312;8;2024-05-06;10:09:00;Cash
+522-57-8364;A;Yangon;Member;Male;Fashion accessories;5134;8;2024-05-06;10:00:00;Ewallet
+459-45-2396;A;Yangon;Member;Female;Food and beverages;996;3;2024-05-06;18:45:00;Cash
+717-96-4189;C;Naypyitaw;Normal;Female;Electronic accessories;3549;6;2024-05-06;12:40:00;Cash
+722-13-2115;C;Naypyitaw;Member;Male;Sports and travel;4285;1;2024-05-06;15:36:00;Credit card
+749-81-8133;A;Yangon;Normal;Female;Fashion accessories;9467;4;2024-05-06;12:04:00;Cash
+777-67-2495;B;Mandalay;Normal;Male;Home and lifestyle;6897;3;2024-05-06;11:26:00;Ewallet
+636-98-3364;B;Mandalay;Member;Female;Electronic accessories;2626;3;2024-05-06;12:36:00;Ewallet
+246-55-6923;C;Naypyitaw;Member;Female;Home and lifestyle;3579;9;2024-05-06;15:06:00;Credit card
+181-82-6255;B;Mandalay;Normal;Female;Home and lifestyle;1637;6;2024-05-06;10:58:00;Cash
+838-02-1821;C;Naypyitaw;Member;Female;Home and lifestyle;1273;2;2024-05-06;12:10:00;Credit card
+887-42-0517;C;Naypyitaw;Normal;Female;Sports and travel;8314;7;2024-05-06;10:31:00;Credit card
+457-12-0244;C;Naypyitaw;Member;Female;Sports and travel;3522;6;2024-05-06;13:49:00;Ewallet
+226-34-0034;B;Mandalay;Normal;Female;Electronic accessories;1378;4;2024-05-06;11:10:00;Ewallet
+321-49-7382;B;Mandalay;Member;Male;Sports and travel;8831;1;2024-05-06;17:38:00;Credit card
+397-25-8725;A;Yangon;Member;Female;Health and beauty;3962;9;2024-05-06;17:54:00;Credit card
+431-66-2305;B;Mandalay;Normal;Female;Electronic accessories;8825;9;2024-05-06;20:51:00;Credit card
+825-94-5922;B;Mandalay;Normal;Male;Sports and travel;2531;2;2024-05-06;19:26:00;Ewallet
+641-62-7288;B;Mandalay;Normal;Male;Home and lifestyle;9992;6;2024-05-06;13:33:00;Ewallet
+756-93-1854;C;Naypyitaw;Member;Female;Fashion accessories;8335;2;2024-05-06;14:05:00;Credit card
+243-55-8457;A;Yangon;Normal;Female;Food and beverages;7444;10;2024-05-06;11:40:00;Ewallet
+458-10-8612;C;Naypyitaw;Normal;Male;Health and beauty;6408;7;2024-05-06;12:27:00;Ewallet
+501-61-1753;B;Mandalay;Normal;Female;Home and lifestyle;6315;6;2024-05-06;20:24:00;Ewallet
+235-06-8510;C;Naypyitaw;Member;Male;Home and lifestyle;8572;3;2024-05-06;20:59:00;Ewallet
+433-08-7822;C;Naypyitaw;Normal;Female;Health and beauty;7889;7;2024-05-06;19:48:00;Ewallet
+361-85-2571;A;Yangon;Normal;Female;Sports and travel;8948;5;2024-05-06;10:18:00;Cash
+131-70-8179;A;Yangon;Member;Female;Health and beauty;9209;3;2024-05-06;16:27:00;Cash
+500-02-2261;C;Naypyitaw;Normal;Female;Food and beverages;5729;6;2024-05-06;17:04:00;Ewallet
+720-72-2436;A;Yangon;Normal;Male;Food and beverages;6652;4;2024-05-06;18:14:00;Ewallet
+702-83-5291;C;Naypyitaw;Member;Male;Fashion accessories;9982;9;2024-05-06;10:43:00;Cash
+809-69-9497;A;Yangon;Normal;Female;Home and lifestyle;4568;10;2024-05-06;19:30:00;Ewallet
+449-16-6770;A;Yangon;Normal;Male;Health and beauty;5079;5;2024-05-06;14:53:00;Credit card
+333-23-2632;A;Yangon;Member;Male;Health and beauty;1008;7;2024-05-06;20:14:00;Cash
+489-82-1237;A;Yangon;Normal;Female;Electronic accessories;9388;7;2024-05-06;11:51:00;Credit card
+859-97-6048;C;Naypyitaw;Member;Male;Electronic accessories;8425;2;2024-05-06;14:13:00;Credit card
+676-10-2200;B;Mandalay;Member;Male;Fashion accessories;5378;1;2024-05-06;20:13:00;Ewallet
+373-88-1424;C;Naypyitaw;Member;Male;Home and lifestyle;3581;5;2024-05-06;18:44:00;Ewallet
+365-16-4334;B;Mandalay;Normal;Female;Food and beverages;2643;8;2024-05-06;14:26:00;Ewallet
+503-21-4385;B;Mandalay;Member;Male;Health and beauty;3991;3;2024-05-06;12:40:00;Ewallet
+305-89-2768;B;Mandalay;Member;Female;Home and lifestyle;219;3;2024-05-06;18:43:00;Ewallet
+574-80-1489;B;Mandalay;Member;Female;Food and beverages;6285;4;2024-05-06;13:22:00;Ewallet
+784-08-0310;C;Naypyitaw;Member;Female;Food and beverages;2104;4;2024-05-06;13:58:00;Cash
+200-40-6154;B;Mandalay;Member;Male;Home and lifestyle;6591;6;2024-05-06;11:45:00;Cash
+846-10-0341;A;Yangon;Normal;Female;Fashion accessories;4257;7;2024-05-06;11:51:00;Cash
+577-34-7579;C;Naypyitaw;Member;Male;Food and beverages;5049;9;2024-05-06;17:16:00;Cash
+430-02-3888;B;Mandalay;Normal;Male;Electronic accessories;4602;6;2024-05-06;15:55:00;Cash
+867-47-1948;C;Naypyitaw;Normal;Female;Home and lifestyle;158;10;2024-05-06;12:07:00;Cash
+384-59-6655;A;Yangon;Member;Female;Food and beverages;9866;9;2024-05-06;15:07:00;Cash
+256-58-3609;C;Naypyitaw;Member;Male;Fashion accessories;9198;1;2024-05-06;15:29:00;Cash
+324-92-3863;A;Yangon;Member;Male;Electronic accessories;2089;2;2024-05-06;18:45:00;Cash
+593-08-5916;A;Yangon;Normal;Female;Fashion accessories;155;1;2024-05-06;15:23:00;Credit card
+364-34-2972;C;Naypyitaw;Member;Male;Electronic accessories;9682;3;2024-05-06;20:37:00;Cash
+794-42-3736;B;Mandalay;Normal;Male;Food and beverages;3333;2;2024-05-06;14:41:00;Credit card
+172-42-8274;B;Mandalay;Normal;Female;Electronic accessories;3827;2;2024-05-06;18:18:00;Credit card
+558-60-5016;A;Yangon;Normal;Female;Home and lifestyle;333;9;2024-05-06;15:27:00;Ewallet
+195-06-0432;A;Yangon;Member;Male;Home and lifestyle;8101;3;2024-05-06;12:55:00;Credit card
+605-03-2706;A;Yangon;Normal;Female;Health and beauty;158;3;2024-05-06;18:02:00;Cash
+214-30-2776;B;Mandalay;Member;Female;Electronic accessories;3449;5;2024-05-06;19:44:00;Credit card
+746-04-1077;B;Mandalay;Member;Female;Food and beverages;8463;10;2024-05-06;11:36:00;Credit card
+448-34-8700;B;Mandalay;Member;Male;Home and lifestyle;3691;7;2024-05-06;13:51:00;Ewallet
+452-04-8808;B;Mandalay;Normal;Male;Electronic accessories;8708;7;2024-05-06;15:17:00;Cash
+531-56-4728;A;Yangon;Normal;Male;Home and lifestyle;8008;3;2024-05-06;15:29:00;Cash
+744-82-9138;C;Naypyitaw;Normal;Male;Fashion accessories;8613;2;2024-05-06;17:59:00;Cash
+883-69-1285;B;Mandalay;Member;Male;Fashion accessories;4992;2;2024-05-06;11:55:00;Credit card
+221-25-5073;A;Yangon;Normal;Female;Food and beverages;7466;4;2024-05-06;10:39:00;Cash
+518-71-6847;B;Mandalay;Member;Male;Food and beverages;266;6;2024-05-06;15:10:00;Ewallet
+156-20-0370;B;Mandalay;Normal;Female;Electronic accessories;2545;1;2024-05-06;18:10:00;Credit card
+151-33-7434;B;Mandalay;Normal;Female;Food and beverages;6777;1;2024-05-06;20:43:00;Credit card
+728-47-9078;C;Naypyitaw;Member;Male;Food and beverages;5959;4;2024-05-06;12:46:00;Cash
+809-46-1866;A;Yangon;Normal;Male;Health and beauty;5815;4;2024-05-06;17:44:00;Cash
+139-32-4183;A;Yangon;Member;Female;Sports and travel;9748;9;2024-05-06;14:19:00;Ewallet
+148-41-7930;C;Naypyitaw;Normal;Male;Health and beauty;9996;7;2024-05-06;10:33:00;Cash
+189-40-5216;C;Naypyitaw;Normal;Male;Electronic accessories;9637;7;2024-05-06;11:40:00;Cash
+374-38-5555;B;Mandalay;Normal;Female;Fashion accessories;6371;5;2024-05-06;19:30:00;Ewallet
+764-44-8999;B;Mandalay;Normal;Female;Health and beauty;1476;2;2024-05-06;14:42:00;Ewallet
+552-44-5977;B;Mandalay;Member;Male;Health and beauty;62;8;2024-05-06;19:08:00;Credit card
+267-62-7380;C;Naypyitaw;Member;Male;Electronic accessories;8234;10;2024-05-06;19:12:00;Ewallet
+430-53-4718;B;Mandalay;Member;Male;Health and beauty;7537;8;2024-05-06;15:46:00;Credit card
+886-18-2897;A;Yangon;Normal;Female;Food and beverages;5656;5;2024-05-06;19:06:00;Credit card
+602-16-6955;B;Mandalay;Normal;Female;Sports and travel;766;10;2024-05-06;18:10:00;Ewallet
+745-74-0715;A;Yangon;Normal;Male;Electronic accessories;5803;2;2024-05-06;20:46:00;Ewallet
+690-01-6631;B;Mandalay;Normal;Male;Fashion accessories;1749;10;2024-05-06;18:35:00;Ewallet
+652-49-6720;C;Naypyitaw;Member;Female;Electronic accessories;6095;1;2024-05-06;11:40:00;Ewallet
+233-67-5758;C;Naypyitaw;Normal;Male;Health and beauty;4035;1;2024-05-06;13:46:00;Ewallet
+303-96-2227;B;Mandalay;Normal;Female;Home and lifestyle;9738;10;2024-05-06;17:16:00;Ewallet
+727-02-1313;A;Yangon;Member;Male;Food and beverages;3184;1;2024-05-06;13:22:00;Cash
+347-56-2442;A;Yangon;Normal;Male;Home and lifestyle;6582;1;2024-05-06;15:33:00;Cash
+849-09-3807;A;Yangon;Member;Female;Fashion accessories;8834;7;2024-05-06;13:28:00;Cash
